@@ -21,6 +21,10 @@
 		982C493F18538DC2006D78F4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 982C492118538DC2006D78F4 /* UIKit.framework */; };
 		982C494718538DC2006D78F4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 982C494518538DC2006D78F4 /* InfoPlist.strings */; };
 		982C494918538DC2006D78F4 /* MyRUTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 982C494818538DC2006D78F4 /* MyRUTests.m */; };
+		98E4632F185686390004E7FF /* TFHpple.m in Sources */ = {isa = PBXBuildFile; fileRef = 98E4632A185686390004E7FF /* TFHpple.m */; };
+		98E46330185686390004E7FF /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 98E4632C185686390004E7FF /* TFHppleElement.m */; };
+		98E46331185686390004E7FF /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 98E4632E185686390004E7FF /* XPathQuery.m */; };
+		98E46333185686BD0004E7FF /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 98E46332185686BD0004E7FF /* libxml2.dylib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +57,13 @@
 		982C494418538DC2006D78F4 /* MyRUTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyRUTests-Info.plist"; sourceTree = "<group>"; };
 		982C494618538DC2006D78F4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		982C494818538DC2006D78F4 /* MyRUTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyRUTests.m; sourceTree = "<group>"; };
+		98E46329185686390004E7FF /* TFHpple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFHpple.h; sourceTree = "<group>"; };
+		98E4632A185686390004E7FF /* TFHpple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHpple.m; sourceTree = "<group>"; };
+		98E4632B185686390004E7FF /* TFHppleElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFHppleElement.h; sourceTree = "<group>"; };
+		98E4632C185686390004E7FF /* TFHppleElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHppleElement.m; sourceTree = "<group>"; };
+		98E4632D185686390004E7FF /* XPathQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XPathQuery.h; sourceTree = "<group>"; };
+		98E4632E185686390004E7FF /* XPathQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XPathQuery.m; sourceTree = "<group>"; };
+		98E46332185686BD0004E7FF /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +71,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98E46333185686BD0004E7FF /* libxml2.dylib in Frameworks */,
 				982C492018538DC2006D78F4 /* CoreGraphics.framework in Frameworks */,
 				982C492218538DC2006D78F4 /* UIKit.framework in Frameworks */,
 				982C491E18538DC2006D78F4 /* Foundation.framework in Frameworks */,
@@ -101,6 +113,7 @@
 		982C491C18538DC2006D78F4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				98E46332185686BD0004E7FF /* libxml2.dylib */,
 				982C491D18538DC2006D78F4 /* Foundation.framework */,
 				982C491F18538DC2006D78F4 /* CoreGraphics.framework */,
 				982C492118538DC2006D78F4 /* UIKit.framework */,
@@ -118,6 +131,7 @@
 				982C493218538DC2006D78F4 /* RUViewController.h */,
 				982C493318538DC2006D78F4 /* RUViewController.m */,
 				982C493518538DC2006D78F4 /* Images.xcassets */,
+				98E46328185686080004E7FF /* hpple */,
 				982C492418538DC2006D78F4 /* Supporting Files */,
 			);
 			path = MyRU;
@@ -150,6 +164,19 @@
 				982C494518538DC2006D78F4 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		98E46328185686080004E7FF /* hpple */ = {
+			isa = PBXGroup;
+			children = (
+				98E46329185686390004E7FF /* TFHpple.h */,
+				98E4632A185686390004E7FF /* TFHpple.m */,
+				98E4632B185686390004E7FF /* TFHppleElement.h */,
+				98E4632C185686390004E7FF /* TFHppleElement.m */,
+				98E4632D185686390004E7FF /* XPathQuery.h */,
+				98E4632E185686390004E7FF /* XPathQuery.m */,
+			);
+			name = hpple;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -253,6 +280,9 @@
 				982C492A18538DC2006D78F4 /* main.m in Sources */,
 				982C493418538DC2006D78F4 /* RUViewController.m in Sources */,
 				982C492E18538DC2006D78F4 /* RUAppDelegate.m in Sources */,
+				98E4632F185686390004E7FF /* TFHpple.m in Sources */,
+				98E46331185686390004E7FF /* XPathQuery.m in Sources */,
+				98E46330185686390004E7FF /* TFHppleElement.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -381,6 +411,11 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyRU/MyRU-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"$(SDKROOT)/usr/include/libxml2",
+				);
 				INFOPLIST_FILE = "MyRU/MyRU-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
@@ -394,6 +429,11 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyRU/MyRU-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"$(SDKROOT)/usr/include/libxml2",
+				);
 				INFOPLIST_FILE = "MyRU/MyRU-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
@@ -461,6 +501,7 @@
 				982C494E18538DC2006D78F4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		982C494F18538DC2006D78F4 /* Build configuration list for PBXNativeTarget "MyRUTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +510,7 @@
 				982C495118538DC2006D78F4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
