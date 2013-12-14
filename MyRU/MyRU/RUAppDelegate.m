@@ -7,12 +7,36 @@
 //
 
 #import "RUAppDelegate.h"
+#import "RUData.h"
+#import "RUTabBarController.h"
 
 @implementation RUAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    
+    
+    // NSUserDefaults
+    // initialize defaults
+    NSString *dateKey    = @"dateKey";
+    NSDate *lastRead    = (NSDate *)[[NSUserDefaults standardUserDefaults] objectForKey:dateKey];
+    if (lastRead == nil)     // App first run: set up user defaults.
+    {
+        NSDictionary *appDefaults  = [NSDictionary dictionaryWithObjectsAndKeys:[NSDate date], dateKey, nil];
+        
+        // do any other initialization you want to do here - e.g. the starting default values.
+        
+        [[NSUserDefaults standardUserDefaults] setObject:nil forKey:@"Authentication"];
+        
+        // sync the defaults to disk
+        [[NSUserDefaults standardUserDefaults] registerDefaults:appDefaults];
+        [[NSUserDefaults standardUserDefaults] synchronize];
+    }
+    
+    //[[RUData sharedData] setAuthentication:nil];
+    [[NSUserDefaults standardUserDefaults] setObject:[NSDate date] forKey:dateKey];
+    [[NSUserDefaults standardUserDefaults] synchronize];
     return YES;
 }
 							
@@ -31,6 +55,16 @@
 - (void)applicationWillEnterForeground:(UIApplication *)application
 {
     // Called as part of the transition from the background to the inactive state; here you can undo many of the changes made on entering the background.
+    
+    // Reload the data when re-opening the app
+    if([[RUData sharedData] userIsLoggedIn])
+    {
+        // Refetch the page, parse it and load the new data into all table view controllers.
+        [[RUData sharedData] refreshData];
+        UIStoryboard* storyboard = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
+        RUTabBarController* tabBarController = [storyboard instantiateInitialViewController];
+        [tabBarController reloadDataInAllTableViewControllers];
+    }
 }
 
 - (void)applicationDidBecomeActive:(UIApplication *)application
