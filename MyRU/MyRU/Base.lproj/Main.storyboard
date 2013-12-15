@@ -251,6 +251,10 @@
                                     <segue destination="bQE-ft-Vsa" kind="unwind" identifier="unwindLoginSegue" unwindAction="unwindLoginSegue:" id="Aav-Wd-iUA"/>
                                 </connections>
                             </button>
+                            <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="cgD-RL-Igw">
+                                <rect key="frame" x="150" y="421" width="20" height="20"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </activityIndicatorView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
@@ -264,9 +268,11 @@
                             <constraint firstItem="CfZ-Jm-Rw5" firstAttribute="trailing" secondItem="zlg-V8-Acx" secondAttribute="trailing" id="ag5-x1-TFB"/>
                             <constraint firstAttribute="centerX" secondItem="uK7-mb-M1u" secondAttribute="centerX" constant="-0.5" id="ddK-eS-Viq"/>
                             <constraint firstItem="zlg-V8-Acx" firstAttribute="trailing" secondItem="uK7-mb-M1u" secondAttribute="trailing" id="gPu-Wx-BhS"/>
+                            <constraint firstAttribute="centerX" secondItem="cgD-RL-Igw" secondAttribute="centerX" id="gwd-L6-0xg"/>
                             <constraint firstItem="zlg-V8-Acx" firstAttribute="top" secondItem="uK7-mb-M1u" secondAttribute="bottom" constant="27" id="gyu-KO-OFu"/>
                             <constraint firstItem="zlg-V8-Acx" firstAttribute="leading" secondItem="EJS-Vy-ME8" secondAttribute="leading" constant="60" id="lNw-u0-993"/>
                             <constraint firstItem="B8D-SS-eZm" firstAttribute="leading" secondItem="EJS-Vy-ME8" secondAttribute="leading" constant="60" id="mna-v6-JvZ"/>
+                            <constraint firstItem="cgD-RL-Igw" firstAttribute="top" secondItem="zlg-V8-Acx" secondAttribute="bottom" constant="67" id="nYZ-3G-zws"/>
                             <constraint firstAttribute="centerX" secondItem="7OY-5B-ZiO" secondAttribute="centerX" id="p7k-t3-wsv"/>
                             <constraint firstItem="7OY-5B-ZiO" firstAttribute="leading" secondItem="EJS-Vy-ME8" secondAttribute="leading" constant="16" id="qeU-Tt-ova"/>
                             <constraint firstAttribute="centerX" secondItem="zlg-V8-Acx" secondAttribute="centerX" constant="-0.5" id="tN7-Yl-VwE"/>
@@ -277,6 +283,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="MvB-x4-NQA"/>
                     <connections>
+                        <outlet property="activityIndicator" destination="cgD-RL-Igw" id="2jh-9c-eGd"/>
                         <outlet property="invalidLabel" destination="B8D-SS-eZm" id="UU8-rJ-jl8"/>
                         <outlet property="keyboardHeight" destination="51b-mR-1UH" id="GsQ-fo-uLM"/>
                         <outlet property="logInButton" destination="zlg-V8-Acx" id="pv4-LR-yM7"/>
@@ -304,6 +311,6 @@
         <simulatedScreenMetrics key="destination" type="retina4"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="kvk-5Y-0ag"/>
+        <segue reference="cZT-Do-I2k"/>
     </inferredMetricsTieBreakers>
 </document>

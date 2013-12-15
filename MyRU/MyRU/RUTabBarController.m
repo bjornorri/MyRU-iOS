@@ -81,6 +81,8 @@
 {
     [[RUData sharedData] clearData];
     [self performSegueWithIdentifier:@"loginSegueAnimated" sender:self];
+    [self reloadDataInAllTableViewControllers];
+    [self setSelectedIndex:0];
 }
 
 @end

@@ -10,6 +10,7 @@
 #import "RUData.h"
 
 @interface RULoginViewController ()
+@property (weak, nonatomic) IBOutlet UIActivityIndicatorView *activityIndicator;
 
 @property (weak, nonatomic) IBOutlet NSLayoutConstraint *keyboardHeight;
 
@@ -59,7 +60,6 @@ int BOTTOM_CONSTRAINT = 214;
     [self.view addGestureRecognizer:tap];
     [self addGradient:self.logInButton];
     [self observeKeyboard];
-    
 }
 
 - (void)didReceiveMemoryWarning
@@ -68,41 +68,50 @@ int BOTTOM_CONSTRAINT = 214;
     // Dispose of any resources that can be recreated.
 }
 
-- (IBAction)submit:(id)sender {
-    
-    // Do not remove. There's a reason for this...
+- (IBAction)submit:(id)sender
+{
     [self dismissKeyboard];
     
     [[self invalidLabel] setHidden:YES];
+    [[self activityIndicator] setHidden:NO];
+    [[self activityIndicator] startAnimating];
     
-    NSString* username = [[self usernameField] text];
-    NSString* password = [[self passwordField] text];
-    
-    NSString* basicAuthentication;
-    NSString* string = [NSString stringWithFormat:@"%@:%@",username, password];
-    NSString *base64EncodedString = [[string dataUsingEncoding:NSUTF8StringEncoding] base64EncodedStringWithOptions:0];
-    basicAuthentication = [NSString stringWithFormat:@"Basic %@",base64EncodedString];
-    
-    [[RUData sharedData] setAuthentication:basicAuthentication];
-    int statusCode = [[RUData sharedData] refreshData];
-    
-    if(statusCode == 200)
+    dispatch_async( dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^
     {
-        NSLog(@"Login successful!");
-        [self performSegueWithIdentifier:@"unwindLoginSegue" sender:self];
+        NSString* username = [[self usernameField] text];
+        NSString* password = [[self passwordField] text];
+        
+        NSString* basicAuthentication;
+        NSString* string = [NSString stringWithFormat:@"%@:%@",username, password];
+        NSString *base64EncodedString = [[string dataUsingEncoding:NSUTF8StringEncoding] base64EncodedStringWithOptions:0];
+        basicAuthentication = [NSString stringWithFormat:@"Basic %@",base64EncodedString];
+        
+        [[RUData sharedData] setAuthentication:basicAuthentication];
+        int statusCode = [[RUData sharedData] refreshData];
+        
+        dispatch_async( dispatch_get_main_queue(), ^
+        {
+            [[self activityIndicator] stopAnimating];
+            if(statusCode == 200)
+            {
+                NSLog(@"Login successful!");
+                [self performSegueWithIdentifier:@"unwindLoginSegue" sender:self];
+            }
+            else if(statusCode == 0)
+            {
+                [[RUData sharedData] setAuthentication:nil];
+                [[self invalidLabel] setHidden:NO];
+                NSLog(@"Invalid authentication!");
+            }
+            else
+            {
+                [[RUData sharedData] setAuthentication:nil];
+                NSLog(@"Myschool is probably down...");
+            }
+
+        });
+    });
     }
-    else if(statusCode == 0)
-    {
-        [[RUData sharedData] setAuthentication:nil];
-        [[self invalidLabel] setHidden:NO];
-        NSLog(@"Invalid authentication!");
-    }
-    else
-    {
-        [[RUData sharedData] setAuthentication:nil];
-        NSLog(@"Myschool is probably down...");
-    }
-}
 
 // This delegate method needs to be here. Always deny the unwind segue, trigger it manually instead.
 - (BOOL)shouldPerformSegueWithIdentifier:(NSString *)identifier sender:(id)sender
