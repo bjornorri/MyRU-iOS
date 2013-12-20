@@ -11,6 +11,7 @@
 #import "RUGradeCell.h"
 #import "RUData.h"
 #import "RUTabBarController.h"
+#import "RUGradeViewController.h"
 
 @interface RUGradesTableViewController ()
 @property (weak, nonatomic) IBOutlet UILabel *emptyLabel;
@@ -154,16 +155,16 @@
 }
 */
 
-/*
+
 #pragma mark - Navigation
 
 // In a story board-based application, you will often want to do a little preparation before navigation
 - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender
 {
-    // Get the new view controller using [segue destinationViewController].
-    // Pass the selected object to the new view controller.
+    RUGradeViewController* destination = [segue destinationViewController];
+    NSIndexPath* indexPath = [[self tableView] indexPathForCell:sender];
+    NSArray* gradesInCourse = [[[RUData sharedData] getGrades] objectAtIndex:[indexPath section]];
+    [destination setGrade:[gradesInCourse objectAtIndex:[indexPath row]]];
 }
-
- */
 
 @end

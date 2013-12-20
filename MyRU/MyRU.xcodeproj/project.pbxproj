@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		981CE47C1863D81F00BF2EF5 /* RUGradeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 981CE47B1863D81E00BF2EF5 /* RUGradeViewController.m */; };
 		9821678D1857B01300897A12 /* RUAssignment.m in Sources */ = {isa = PBXBuildFile; fileRef = 9821678C1857B01300897A12 /* RUAssignment.m */; };
 		9821AA55185A3AAD00EF792D /* Favorites@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9821AA54185A3AAD00EF792D /* Favorites@2x.png */; };
 		9821AA5B185A3B6500EF792D /* RUGradesTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9821AA5A185A3B6500EF792D /* RUGradesTableViewController.m */; };
@@ -53,6 +54,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		981CE47A1863D81E00BF2EF5 /* RUGradeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RUGradeViewController.h; sourceTree = "<group>"; };
+		981CE47B1863D81E00BF2EF5 /* RUGradeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RUGradeViewController.m; sourceTree = "<group>"; };
 		9821678B1857B01300897A12 /* RUAssignment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RUAssignment.h; sourceTree = "<group>"; };
 		9821678C1857B01300897A12 /* RUAssignment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RUAssignment.m; sourceTree = "<group>"; };
 		9821AA54185A3AAD00EF792D /* Favorites@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Favorites@2x.png"; sourceTree = "<group>"; };
@@ -202,6 +205,8 @@
 				983500D71858C33C0006FEF8 /* RUTabBarController.m */,
 				9896119C185D576F0014FE99 /* RUAssignmentViewController.h */,
 				9896119D185D576F0014FE99 /* RUAssignmentViewController.m */,
+				981CE47A1863D81E00BF2EF5 /* RUGradeViewController.h */,
+				981CE47B1863D81E00BF2EF5 /* RUGradeViewController.m */,
 				982C493518538DC2006D78F4 /* Images.xcassets */,
 				989611E0185E29A70014FE99 /* Custom URL Protocol */,
 				9821678A1857AFF500897A12 /* Model */,
@@ -386,6 +391,7 @@
 				98E4632F185686390004E7FF /* TFHpple.m in Sources */,
 				98CE65F1185A916B007EFE90 /* RUAssignmentCell.m in Sources */,
 				98E46331185686390004E7FF /* XPathQuery.m in Sources */,
+				981CE47C1863D81F00BF2EF5 /* RUGradeViewController.m in Sources */,
 				989611E3185E29DA0014FE99 /* RUCustomURLProtocol.m in Sources */,
 				983500D81858C33D0006FEF8 /* RUTabBarController.m in Sources */,
 				9896119E185D576F0014FE99 /* RUAssignmentViewController.m in Sources */,
