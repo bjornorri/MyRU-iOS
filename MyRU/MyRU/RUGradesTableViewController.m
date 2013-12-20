@@ -13,6 +13,7 @@
 #import "RUTabBarController.h"
 
 @interface RUGradesTableViewController ()
+@property (weak, nonatomic) IBOutlet UILabel *emptyLabel;
 
 @end
 
@@ -38,7 +39,7 @@
 
 // Fetch the page again, parse and load into the table view.
 - (void)reloadData
-{
+{   
     [[RUData sharedData] refreshData];
     [(RUTabBarController*)[self tabBarController] reloadDataInAllTableViewControllers];
     [self.refreshControl endRefreshing];
@@ -55,7 +56,17 @@
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
 {
-    return [[[RUData sharedData] getGrades] count];
+    int sections = (int)[[[RUData sharedData] getGrades] count];
+    
+    if(sections == 0)
+    {
+        [[self emptyLabel] setHidden:NO];
+    }
+    else
+    {
+        [[self emptyLabel] setHidden:YES];
+    }
+    return sections;
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section

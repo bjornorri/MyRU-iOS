@@ -44,6 +44,11 @@ static RUData* sharedData = nil;
     return [self basicAuthentication] != nil;
 }
 
+- (NSString*)getAuthentication
+{
+    return [self basicAuthentication];
+}
+
 - (void)setAuthentication:(NSString *)string
 {
     [[NSUserDefaults standardUserDefaults] setObject:string forKey:@"Authentication"];
@@ -97,15 +102,12 @@ static RUData* sharedData = nil;
 // Load the page into self.page. Return the status code of the HTTP response (intended for login check).
 - (int)loadPage
 {
-    NSLog(@"User Defaults: %@", [[NSUserDefaults standardUserDefaults] valueForKey:@"Authentication"]); // Debug code
-    
     NSURL* myschoolURL = [NSURL URLWithString:@"https://myschool.ru.is/myschool/?Page=Exe&ID=1.12"];
     NSMutableURLRequest* request = [NSMutableURLRequest requestWithURL:myschoolURL];
     [request setValue:self.basicAuthentication forHTTPHeaderField:@"Authorization"];
     NSHTTPURLResponse* response;
     self.page = [NSMutableData dataWithData:[NSURLConnection sendSynchronousRequest:request returningResponse:&response error:nil]];
     int statusCode = (int)[response statusCode];
-    
     NSLog(@"Status Code: %d", statusCode); // Debug code
     return statusCode;
 }
@@ -294,6 +296,5 @@ static RUData* sharedData = nil;
         return sharedData;
     }
 }
-
 
 @end

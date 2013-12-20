@@ -9,13 +9,14 @@
 #import "RUAppDelegate.h"
 #import "RUData.h"
 #import "RUTabBarController.h"
+#import "RUCustomURLProtocol.h"
 
 @implementation RUAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
-    
+    [NSURLProtocol registerClass:[RUCustomURLProtocol class]];
     
     // NSUserDefaults
     // initialize defaults
@@ -60,10 +61,17 @@
     if([[RUData sharedData] userIsLoggedIn])
     {
         // Refetch the page, parse it and load the new data into all table view controllers.
-        [[RUData sharedData] refreshData];
-        UIStoryboard* storyboard = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
-        RUTabBarController* tabBarController = [storyboard instantiateInitialViewController];
-        [tabBarController reloadDataInAllTableViewControllers];
+        dispatch_async( dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^
+        {
+            [[RUData sharedData] refreshData];
+           
+           dispatch_async( dispatch_get_main_queue(), ^
+          {
+              UIStoryboard* storyboard = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
+              RUTabBarController* tabBarController = [storyboard instantiateInitialViewController];
+              [tabBarController reloadDataInAllTableViewControllers];
+          });
+       });
     }
 }
 

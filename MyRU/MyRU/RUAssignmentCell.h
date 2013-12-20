@@ -11,6 +11,6 @@
 
 @interface RUAssignmentCell : UITableViewCell
 
-- (void)setAssignment:(RUAssignment*)assignment;
+@property (weak, nonatomic, setter = setAssignment:) RUAssignment* assignment;
 
 @end

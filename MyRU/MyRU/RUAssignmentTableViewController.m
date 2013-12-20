@@ -11,8 +11,11 @@
 #import "RUTabBarController.h"
 #import "RUAssignmentCell.h"
 #import "RUAssignment.h"
+#import "RUAssignmentViewController.h"
+
 
 @interface RUAssignmentTableViewController ()
+@property (weak, nonatomic) IBOutlet UILabel *emptyLabel;
 
 @end
 
@@ -39,6 +42,7 @@
     self.tableView.contentInset = UIEdgeInsetsMake(-1.0f, 0.0f, 0.0f, 0.0);
 }
 
+
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
@@ -62,7 +66,17 @@
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
-    return [[[RUData sharedData] getAssignments] count];
+    int rows = (int)[[[RUData sharedData] getAssignments] count];
+    
+    if(rows == 0)
+    {
+        [[self emptyLabel] setHidden:NO];
+    }
+    else
+    {
+        [[self emptyLabel] setHidden:YES];
+    }
+    return rows;
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
@@ -134,16 +148,17 @@
 }
 */
 
-/*
+
 #pragma mark - Navigation
 
-// In a story board-based application, you will often want to do a little preparation before navigation
 - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender
 {
     // Get the new view controller using [segue destinationViewController].
     // Pass the selected object to the new view controller.
+    
+    RUAssignmentViewController* destination = [segue destinationViewController];
+    NSIndexPath* indexPath = [self.tableView indexPathForCell:sender];
+    [destination setAssignment:[[[RUData sharedData] getAssignments] objectAtIndex:[indexPath row]]];
 }
-
- */
 
 @end

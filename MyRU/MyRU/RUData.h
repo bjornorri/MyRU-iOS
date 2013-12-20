@@ -13,6 +13,7 @@
 + (id)sharedData;
 - (bool)userIsLoggedIn;
 - (void)setAuthentication:(NSString *)string;
+- (NSString*)getAuthentication;
 - (int)refreshData;
 - (NSArray*)getAssignments;
 - (NSArray*)getGrades;

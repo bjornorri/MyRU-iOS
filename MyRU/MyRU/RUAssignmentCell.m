@@ -10,7 +10,6 @@
 
 @interface RUAssignmentCell()
 
-@property (weak, nonatomic, setter = setAssignment:) RUAssignment* assignment;
 @property (weak, nonatomic) IBOutlet UIImageView *doneImage;
 @property (weak, nonatomic) IBOutlet UILabel *nameLabel;
 @property (weak, nonatomic) IBOutlet UILabel *courseLabel;
