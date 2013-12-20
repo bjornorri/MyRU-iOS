@@ -314,11 +314,52 @@
                         <segue destination="18Q-6i-M3i" kind="modal" identifier="loginSegue" animates="NO" id="kvk-5Y-0ag"/>
                         <segue destination="7wa-De-ejE" kind="relationship" relationship="viewControllers" id="MJf-vt-6uF"/>
                         <segue destination="ZRQ-je-Aif" kind="relationship" relationship="viewControllers" id="xCo-BD-Tha"/>
+                        <segue destination="M0c-CT-yGg" kind="modal" identifier="logoutSegue" id="Kcc-pj-tsq"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="sr4-8G-enK" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="207" y="128"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="nww-cp-RXM">
+            <objects>
+                <viewController id="M0c-CT-yGg" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="GUp-IQ-sfy"/>
+                        <viewControllerLayoutGuide type="bottom" id="VhK-Ud-OAw"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="9g5-Cc-1Af">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="6" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" preferredMaxLayoutWidth="221" translatesAutoresizingMaskIntoConstraints="NO" id="nOI-jd-XEp">
+                                <rect key="frame" x="50" y="221" width="221" height="164"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">To log out you properly you must restart the app. This is due to a problem with the way MySchool handles authentication. Sorry for the inconvenience.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="centered_white.png" translatesAutoresizingMaskIntoConstraints="NO" id="Q46-sb-8Wk">
+                                <rect key="frame" x="20" y="62" width="280" height="151"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="151" id="APE-tI-1V1"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="Q46-sb-8Wk" firstAttribute="top" secondItem="GUp-IQ-sfy" secondAttribute="bottom" constant="42" id="NxI-Ue-qzC"/>
+                            <constraint firstAttribute="trailing" secondItem="Q46-sb-8Wk" secondAttribute="trailing" constant="20" id="dQ9-vW-MOf"/>
+                            <constraint firstItem="Q46-sb-8Wk" firstAttribute="leading" secondItem="9g5-Cc-1Af" secondAttribute="leading" constant="20" id="omf-wT-bzb"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="DpQ-DQ-EuK" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="207" y="806"/>
         </scene>
         <!--Login View Controller-->
         <scene sceneID="6U4-G8-ww0">
@@ -345,9 +386,9 @@
                                 <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits"/>
+                                <textInputTraits key="textInputTraits" enablesReturnKeyAutomatically="YES"/>
                                 <connections>
-                                    <action selector="textFieldDidEndEditing:" destination="18Q-6i-M3i" eventType="editingDidEnd" id="mqS-pG-vIh"/>
+                                    <action selector="textFieldDidEndEditing:" destination="18Q-6i-M3i" eventType="editingDidEndOnExit" id="R1O-BA-hFd"/>
                                 </connections>
                             </textField>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Password" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="uK7-mb-M1u">
@@ -356,9 +397,9 @@
                                 <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
-                                <textInputTraits key="textInputTraits" secureTextEntry="YES"/>
+                                <textInputTraits key="textInputTraits" enablesReturnKeyAutomatically="YES" secureTextEntry="YES"/>
                                 <connections>
-                                    <action selector="textFieldDidEndEditing:" destination="18Q-6i-M3i" eventType="editingDidEnd" id="bp3-ei-Mo9"/>
+                                    <action selector="textFieldDidEndEditing:" destination="18Q-6i-M3i" eventType="editingDidEndOnExit" id="a5X-jb-bEG"/>
                                 </connections>
                             </textField>
                             <label hidden="YES" opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Invalid authentication, try again." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="B8D-SS-eZm">
@@ -448,6 +489,6 @@
         <simulatedScreenMetrics key="destination" type="retina4"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="cZT-Do-I2k"/>
+        <segue reference="kvk-5Y-0ag"/>
     </inferredMetricsTieBreakers>
 </document>

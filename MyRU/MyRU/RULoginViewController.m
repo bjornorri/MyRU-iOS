@@ -9,7 +9,7 @@
 #import "RULoginViewController.h"
 #import "RUData.h"
 
-@interface RULoginViewController ()
+@interface RULoginViewController()
 @property (weak, nonatomic) IBOutlet UIActivityIndicatorView *activityIndicator;
 
 @property (weak, nonatomic) IBOutlet NSLayoutConstraint *keyboardHeight;
@@ -119,6 +119,22 @@ int BOTTOM_CONSTRAINT = 214;
     return NO;
 }
 
+- (IBAction)textFieldDidEndEditing:(id)sender
+{
+    if(sender == self.usernameField)
+    {
+        [self.passwordField becomeFirstResponder];
+    }
+    else
+    {
+        [sender resignFirstResponder];
+    }
+}
+
+
+
+
+
 // Some copy/paste function to add gradient to the login button.
 // not sure i like this...
 -(void) addGradient:(UIButton *) _button {
@@ -152,19 +168,6 @@ int BOTTOM_CONSTRAINT = 214;
 
 
 #pragma mark - keyboard stuff
-
-
-- (IBAction)textFieldDidEndEditing:(id)sender {
-    
-    if(sender == self.usernameField)
-    {
-        [self.passwordField becomeFirstResponder];
-    }
-    else
-    {
-        [sender resignFirstResponder];
-    }
-}
 
 
 

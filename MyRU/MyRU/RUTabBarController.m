@@ -80,7 +80,7 @@
 - (void)logOut
 {
     [[RUData sharedData] clearData];
-    [self performSegueWithIdentifier:@"loginSegueAnimated" sender:self];
+    [self performSegueWithIdentifier:@"logoutSegue" sender:self];
     [self reloadDataInAllTableViewControllers];
     [self setSelectedIndex:0];
 }
