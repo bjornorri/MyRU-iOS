@@ -206,7 +206,8 @@ int BOTTOM_CONSTRAINT = 214;
     }];
 }
 
--(void)dismissKeyboard {
+-(void)dismissKeyboard
+{
     [self.usernameField resignFirstResponder];
     [self.passwordField resignFirstResponder];
 }

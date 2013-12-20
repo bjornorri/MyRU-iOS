@@ -39,7 +39,7 @@
     
     
     // This hides the section header. Remove if grouped style table view is not used.
-    self.tableView.contentInset = UIEdgeInsetsMake(-1.0f, 0.0f, 0.0f, 0.0);
+    //self.tableView.contentInset = UIEdgeInsetsMake(-1.0f, 0.0f, 0.0f, 0.0);
 }
 
 
@@ -88,11 +88,13 @@
     
 }
 
-- (CGFloat)tableView:(UITableView *)tableView heightForHeaderInSection:(NSInteger)section
-{
-    // This is hidden under the navigation bar in viewDidLoad.
-    return 1.0f;
-}
+
+// Uncomment if grouped style is used.
+//- (CGFloat)tableView:(UITableView *)tableView heightForHeaderInSection:(NSInteger)section
+//{
+//    // This is hidden under the navigation bar in viewDidLoad.
+//    return 1.0f;
+//}
 
 - (IBAction)didPushLogoutButton:(id)sender
 {

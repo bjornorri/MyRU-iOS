@@ -10,6 +10,7 @@
 #import "RUData.h"
 
 @interface RUAssignmentViewController ()<UIWebViewDelegate>
+@property (weak, nonatomic) IBOutlet UIActivityIndicatorView *activityIndicator;
 
 @property (weak, nonatomic) IBOutlet UIWebView *webView;
 
@@ -53,13 +54,31 @@
     [[self webView] loadRequest:urlRequest];
 }
 
+
+#pragma mark - webView delegate
+
+- (void)webViewDidStartLoad:(UIWebView *)webView
+{
+    [self.activityIndicator startAnimating];
+}
+
 -(void)webViewDidFinishLoad:(UIWebView *)webView
 {
     // Hide unnecessary elements
     NSString* js = [NSMutableString stringWithString:@"$('.ruHeader a').click(function(e){e.preventDefault()});$('.ruLeft').hide();$('.ruRight').hide();$('.ruFooter').hide();$('#headersearch').hide();$('.level1').hide();$('.resetSize').click();$('.increaseSize').click();$('.increaseSize').click()"];
-    [webView stringByEvaluatingJavaScriptFromString:js];
+    [self.webView stringByEvaluatingJavaScriptFromString:js];
+    [self.webView setAlpha:1.0];
+    [self.activityIndicator stopAnimating];
 }
 
+
+- (void)webView:(UIWebView *)webView didFailLoadWithError:(NSError *)error
+{
+    [self.activityIndicator stopAnimating];
+    UIAlertView* alert = [[UIAlertView alloc] initWithTitle:@"Error" message:@"The page could not be loaded" delegate:self cancelButtonTitle:@"Ok" otherButtonTitles:nil, nil];
+    [alert show];
+    
+}
 
 @end
 

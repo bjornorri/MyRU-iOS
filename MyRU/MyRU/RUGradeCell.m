@@ -40,7 +40,7 @@
 {
     [[self assignmentLabel] setText:[grade assignmentName]];
     [[self rankLabel] setText:[grade order]];
-    [[self gradeLabel] setText:[grade grade]];
+    [[self gradeLabel] setText:[grade getGrade]];
 }
 
 
