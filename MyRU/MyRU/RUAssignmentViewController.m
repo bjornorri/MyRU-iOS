@@ -51,7 +51,18 @@
     
     [urlRequest setValue:basicAuthentication forHTTPHeaderField:@"Authorization"];
     
+    [self.webView setAlpha:0.0];
     [[self webView] loadRequest:urlRequest];
+}
+
+- (IBAction)refresh:(id)sender
+{
+    [self.webView setAlpha:0.0];
+    NSMutableString* urlString = [NSMutableString stringWithString:@"https://myschool.ru.is/myschool/"];
+    [urlString appendString:[[self assignment] assignmentURL]];
+    NSURL* url = [NSURL URLWithString:urlString];
+    NSURLRequest* urlRequest = [[NSURLRequest alloc] initWithURL:url];
+    [self.webView loadRequest:urlRequest];
 }
 
 
@@ -64,8 +75,8 @@
 
 -(void)webViewDidFinishLoad:(UIWebView *)webView
 {
-    // Hide unnecessary elements
-    NSString* js = [NSMutableString stringWithString:@"$('.ruHeader a').click(function(e){e.preventDefault()});$('.ruLeft').hide();$('.ruRight').hide();$('.ruFooter').hide();$('#headersearch').hide();$('.level1').hide();$('.resetSize').click();$('.increaseSize').click();$('.increaseSize').click()"];
+    // Hide unnecessary elements and enlarge everything else.
+    NSString* js = [NSMutableString stringWithString:@"$('.ruHeader a').click(function(e){e.preventDefault()});$('.ruLeft').hide();$('.ruRight').hide();$('.ruFooter').hide();$('#headersearch').hide();$('.level1').hide();$('.resetSize').click();$('.increaseSize').click();$('.increaseSize').click();$('.increaseSize').click()"];
     [self.webView stringByEvaluatingJavaScriptFromString:js];
     [self.webView setAlpha:1.0];
     [self.activityIndicator stopAnimating];
