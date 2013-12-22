@@ -317,7 +317,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NBb-hf-Xg8">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NBb-hf-Xg8">
                                 <rect key="frame" x="20" y="207" width="280" height="294"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
@@ -336,6 +336,12 @@
                             </view>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="NBb-hf-Xg8" firstAttribute="top" secondItem="BXz-RC-sN3" secondAttribute="bottom" constant="143" id="EZF-Gt-bVj"/>
+                            <constraint firstItem="1my-Un-4fJ" firstAttribute="top" secondItem="NBb-hf-Xg8" secondAttribute="bottom" constant="18" id="MgG-TH-bdw"/>
+                            <constraint firstAttribute="trailing" secondItem="NBb-hf-Xg8" secondAttribute="trailing" constant="20" id="PZY-Qe-kAC"/>
+                            <constraint firstItem="NBb-hf-Xg8" firstAttribute="leading" secondItem="Xyi-Je-1IF" secondAttribute="leading" constant="20" id="sgq-Lb-fdh"/>
+                        </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="SRF-3F-uyf"/>
                     <connections>
