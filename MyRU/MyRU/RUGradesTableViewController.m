@@ -115,7 +115,7 @@
 {
     UIView* view = [[UIView alloc] initWithFrame:CGRectMake(0, 0, self.view.frame.size.width, 40)];
     [view setBackgroundColor:[UIColor whiteColor]];
-    UILabel* label = [[UILabel alloc] initWithFrame:CGRectMake(20, 6, self.view.frame.size.width, 38)];
+    UILabel* label = [[UILabel alloc] initWithFrame:CGRectMake(20, 8, self.view.frame.size.width, 30)];
     NSString* title = [self tableView:self.tableView titleForHeaderInSection:section];
     [label setText:title];
     [label setBackgroundColor:[UIColor whiteColor]];
