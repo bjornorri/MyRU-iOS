@@ -7,6 +7,7 @@
 //
 
 #import "RUGradeViewController.h"
+#import <QuartzCore/QuartzCore.h>
 
 @interface RUGradeViewController ()
 @property (weak, nonatomic) IBOutlet UILabel *courseLabel;
@@ -37,7 +38,18 @@
     [[self courseLabel] setText:[[self grade] getCourse]];
     [[self gradeLabel] setText:[[self grade] getGrade]];
     [[self rankLabel] setText:[[self grade] getRank]];
-    [[self feedbackView] setText:[[self grade] feedback]];
+    
+    if(![[[self grade] feedback] isEqualToString:@" "])
+    {
+        [[self feedbackView] setText:[[self grade] feedback]];
+    }
+    else
+    {
+        [[self feedbackView] setText:@"No feedback"];
+    }
+    
+    //[[self.feedbackView layer] setBorderColor:[[UIColor blackColor] CGColor]];
+    //[[self.feedbackView layer] setBorderWidth:1.0];
 }
 
 - (void)didReceiveMemoryWarning

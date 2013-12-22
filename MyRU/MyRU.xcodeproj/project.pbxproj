@@ -35,6 +35,7 @@
 		989611E3185E29DA0014FE99 /* RUCustomURLProtocol.m in Sources */ = {isa = PBXBuildFile; fileRef = 989611E2185E29DA0014FE99 /* RUCustomURLProtocol.m */; };
 		98A7D9641859274D003AB170 /* RULoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 98A7D9631859274D003AB170 /* RULoginViewController.m */; };
 		98A7D96618592945003AB170 /* centered_white.png in Resources */ = {isa = PBXBuildFile; fileRef = 98A7D96518592945003AB170 /* centered_white.png */; };
+		98B9AB2518676F9700CB6400 /* default_white.png in Resources */ = {isa = PBXBuildFile; fileRef = 98B9AB2418676F9700CB6400 /* default_white.png */; };
 		98CE65EE185A90DE007EFE90 /* RUAssignmentTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 98CE65ED185A90DE007EFE90 /* RUAssignmentTableViewController.m */; };
 		98CE65F1185A916B007EFE90 /* RUAssignmentCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 98CE65F0185A916B007EFE90 /* RUAssignmentCell.m */; };
 		98E1944A1857C397007F9990 /* RUGrade.m in Sources */ = {isa = PBXBuildFile; fileRef = 98E194491857C397007F9990 /* RUGrade.m */; };
@@ -97,6 +98,7 @@
 		98A7D9621859274D003AB170 /* RULoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RULoginViewController.h; sourceTree = "<group>"; };
 		98A7D9631859274D003AB170 /* RULoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RULoginViewController.m; sourceTree = "<group>"; };
 		98A7D96518592945003AB170 /* centered_white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = centered_white.png; sourceTree = "<group>"; };
+		98B9AB2418676F9700CB6400 /* default_white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = default_white.png; sourceTree = "<group>"; };
 		98CE65EC185A90DE007EFE90 /* RUAssignmentTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RUAssignmentTableViewController.h; sourceTree = "<group>"; };
 		98CE65ED185A90DE007EFE90 /* RUAssignmentTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RUAssignmentTableViewController.m; sourceTree = "<group>"; };
 		98CE65EF185A916B007EFE90 /* RUAssignmentCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RUAssignmentCell.h; sourceTree = "<group>"; };
@@ -266,6 +268,7 @@
 		98E194471857C1CA007F9990 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				98B9AB2418676F9700CB6400 /* default_white.png */,
 				9832D9021863F70A007DB8CF /* hnifapar@2x.png */,
 				9834D5ED185CC29A008F2061 /* greencheck.png */,
 				983FD39E185A8D740024B714 /* logout@2x.png */,
@@ -367,6 +370,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9834D5EE185CC29A008F2061 /* greencheck.png in Resources */,
+				98B9AB2518676F9700CB6400 /* default_white.png in Resources */,
 				9832D9031863F70A007DB8CF /* hnifapar@2x.png in Resources */,
 				9821AA55185A3AAD00EF792D /* Favorites@2x.png in Resources */,
 				983FD39F185A8D740024B714 /* logout@2x.png in Resources */,
