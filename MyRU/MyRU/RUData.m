@@ -279,7 +279,7 @@ static RUData* sharedData = nil;
 
 
 #pragma public
-
+    
 // Get the shared instance and create it if necessary.
 + (id)sharedData
 {
