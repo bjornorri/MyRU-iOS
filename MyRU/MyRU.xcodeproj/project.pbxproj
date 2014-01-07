@@ -340,6 +340,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Björn Orri Sæmundsson";
 				TargetAttributes = {
+					982C491918538DC2006D78F4 = {
+						DevelopmentTeam = 5762VEA4LK;
+					};
 					982C493A18538DC2006D78F4 = {
 						TestTargetID = 982C491918538DC2006D78F4;
 					};
@@ -541,6 +544,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyRU/MyRU-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
@@ -560,6 +564,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyRU/MyRU-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
@@ -570,6 +575,7 @@
 				INFOPLIST_FILE = "MyRU/MyRU-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "09D3BA4D-FEF8-4C45-A569-8CDCC14F0A45";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
