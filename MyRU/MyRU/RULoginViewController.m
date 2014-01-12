@@ -82,18 +82,12 @@ int BOTTOM_CONSTRAINT = 214;
         NSString* password = [[self passwordField] text];
         
         NSString* basicAuthentication;
+
         
-        // Hardcoded account for Apple
-        if([username isEqualToString:@"Appleseed"] && [password isEqualToString:@"gate731"])
-        {
-            basicAuthentication = @"Basic aGVubnkxMzpIYW1hcjEyNw==";
-        }
-        else
-        {
-            NSString* string = [NSString stringWithFormat:@"%@:%@",username, password];
-            NSString *base64EncodedString = [[string dataUsingEncoding:NSUTF8StringEncoding] base64EncodedStringWithOptions:0];
-            basicAuthentication = [NSString stringWithFormat:@"Basic %@",base64EncodedString];
-        }
+        NSString* string = [NSString stringWithFormat:@"%@:%@",username, password];
+        NSString *base64EncodedString = [[string dataUsingEncoding:NSUTF8StringEncoding] base64EncodedStringWithOptions:0];
+        basicAuthentication = [NSString stringWithFormat:@"Basic %@",base64EncodedString];
+        
         
         [[RUData sharedData] setAuthentication:basicAuthentication];
         int statusCode = [[RUData sharedData] refreshData];
