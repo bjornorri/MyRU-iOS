@@ -43,7 +43,7 @@
     [[self courseLabel] setText:[assignment courseName]];
     [[self dateLabel] setText:[assignment dueDate]];
     
-    if([[assignment handedIn] isEqualToString:@"Skilað"])
+    if(![[assignment handedIn] isEqualToString:@"Óskilað"])
     {
         [[self doneImage] setHidden:NO];
     }
