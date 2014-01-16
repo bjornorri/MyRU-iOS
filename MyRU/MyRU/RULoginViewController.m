@@ -82,12 +82,10 @@ int BOTTOM_CONSTRAINT = 214;
         NSString* password = [[self passwordField] text];
         
         NSString* basicAuthentication;
-
         
         NSString* string = [NSString stringWithFormat:@"%@:%@",username, password];
         NSString *base64EncodedString = [[string dataUsingEncoding:NSUTF8StringEncoding] base64EncodedStringWithOptions:0];
         basicAuthentication = [NSString stringWithFormat:@"Basic %@",base64EncodedString];
-        
         
         [[RUData sharedData] setAuthentication:basicAuthentication];
         int statusCode = [[RUData sharedData] refreshData];

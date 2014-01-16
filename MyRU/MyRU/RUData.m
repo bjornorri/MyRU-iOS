@@ -117,7 +117,7 @@
         if(self.page)
         {
             TFHpple* htmlParser = [TFHpple hppleWithHTMLData:self.page];
-            NSString* XpathQueryString = @"//div[@class='ruContentPage']/center/table[@class='ruTable']";
+            NSString* XpathQueryString = @"//div[@class='ruContentPage']/center/table";
             NSArray* tables = [htmlParser searchWithXPathQuery:XpathQueryString];
             NSArray* hppleAssignments;
             NSArray* hppleGrades;
