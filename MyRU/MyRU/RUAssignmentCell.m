@@ -45,7 +45,12 @@
     
     if(![[assignment handedIn] isEqualToString:@"Óskilað"])
     {
+        NSLog(@"%@ has been handed in!", [assignment title]);
         [[self doneImage] setHidden:NO];
+    }
+    else
+    {
+        [[self doneImage] setHidden:YES];
     }
 }
 
