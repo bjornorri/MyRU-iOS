@@ -51,7 +51,6 @@
     {
         [[self doneImage] setHidden:YES];
     }
-    NSLog(@"Setting assignment");
 }
 
 // Prevent checkmark from being displayed when it shouldnt (bug fix)

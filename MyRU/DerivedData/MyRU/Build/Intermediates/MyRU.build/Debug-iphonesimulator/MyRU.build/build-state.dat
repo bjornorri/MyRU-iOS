@@ -1,0 +1,1585 @@
+TMyRU
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch.pch MyRU/MyRU-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/main.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignment.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignment.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUData.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAppDelegate.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUMenuViewController.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUMenuViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHpple.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHpple.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentCell.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/XPathQuery.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/XPathQuery.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeViewController.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUCustomURLProtocol.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUCustomURLProtocol.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUTabBarController.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUTabBarController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentViewController.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradesTableViewController.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradesTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RULoginViewController.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RULoginViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHppleElement.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHppleElement.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUClass.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUClass.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeCell.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentTableViewController.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGrade.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGrade.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/MyRU normal x86_64
+cCpResource MyRU/greencheck.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/greencheck.png
+cCpResource MyRU/default_white.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/default_white.png
+cCpResource MyRU/hnifapar@2x.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/hnifapar@2x.png
+cCpResource MyRU/Favorites@2x.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Favorites@2x.png
+cCpResource MyRU/logout@2x.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/logout@2x.png
+cCpResource MyRU/Files@2x.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Files@2x.png
+cCopyStringsFile /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/en.lproj/InfoPlist.strings MyRU/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/Base.lproj/Main.storyboard
+cCpResource MyRU/centered_white.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/centered_white.png
+cCompileAssetCatalog /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/Images.xcassets
+cProcessInfoPlistFile /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Info.plist /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/MyRU-Info.plist
+cGenerateDSYMFile /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app.dSYM /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/MyRU
+cTouch /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c000000005283700D0000000000000176
+t1384345613
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000523F4DDB00000000000003B5
+t1379880411
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267DC5400000000000001A0
+t1382538324
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005267DC5500000000005838D0
+t1382538325
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005267DC5500000000005B82A0
+t1382538325
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005267DC550000000000445870
+t1382538325
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005267DC550000000000355050
+t1382538325
+s3493968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005267DC5600000000002F6810
+t1382538326
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005267DC55000000000004B000
+t1382538325
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005267DC56000000000088C680
+t1382538326
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005267DC570000000000037620
+t1382538327
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005267DC5700000000004848F0
+t1382538327
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005267DC5700000000001290B0
+t1382538327
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005267DC5A0000000001DB9910
+t1382538330
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005267DC5C00000000002B9F20
+t1382538332
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/HTMLparser.h
+c00000000523F4DF900000000000024B6
+t1379880441
+s9398
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/SAX.h
+c00000000523F4DF900000000000010F5
+t1379880441
+s4341
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/SAX2.h
+c00000000523F4DF9000000000000130E
+t1379880441
+s4878
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/dict.h
+c00000000523F4DF90000000000000732
+t1379880441
+s1842
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/encoding.h
+c00000000523F4DF9000000000000208C
+t1379880441
+s8332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/entities.h
+c00000000523F4DF9000000000000125F
+t1379880441
+s4703
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/globals.h
+c00000000523F4DF9000000000000393B
+t1379880441
+s14651
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/hash.h
+c00000000523F4DF9000000000000195C
+t1379880441
+s6492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/list.h
+c00000000523F4DF90000000000000D26
+t1379880441
+s3366
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/parser.h
+c00000000523F4DF90000000000009B27
+t1379880441
+s39719
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/threads.h
+c00000000523F4DF9000000000000073C
+t1379880441
+s1852
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/tree.h
+c00000000523F4DF900000000000093D3
+t1379880441
+s37843
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/valid.h
+c00000000523F4DF90000000000003536
+t1379880441
+s13622
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xlink.h
+c00000000523F4DF900000000000013B0
+t1379880441
+s5040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlIO.h
+c00000000523F4DF90000000000002977
+t1379880441
+s10615
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlautomata.h
+c00000000523F4DF90000000000000F74
+t1379880441
+s3956
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlerror.h
+c00000000523F4DF90000000000008FC3
+t1379880441
+s36803
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlexports.h
+c00000000523F4DF90000000000000F50
+t1379880441
+s3920
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlmemory.h
+c00000000523F4DF90000000000001739
+t1379880441
+s5945
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlregexp.h
+c00000000523F4DF90000000000001552
+t1379880441
+s5458
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlstring.h
+c00000000523F4DF9000000000000155D
+t1379880441
+s5469
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlversion.h
+c00000000523F4DF90000000000001F2B
+t1379880441
+s7979
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xpath.h
+c00000000523F4DF9000000000000400E
+t1379880441
+s16398
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c00000000523F4DF90000000000004B99
+t1379880441
+s19353
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c00000000523F4DFA0000000000002338
+t1379880442
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c000000005267DC5E000000000008D300
+t1382538334
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c00000000523F4DFB000000000038ACB0
+t1379880443
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libxml2.dylib
+c00000000523F4DFB0000000000265B40
+t1379880443
+s2513728
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c000000005266DDBB00000000000141F0
+t1382473147
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c00000000523F4DFB0000000000013500
+t1379880443
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000523F4DFB0000000000033BA0
+t1379880443
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000523F4DFB000000000001CFB0
+t1379880443
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000523F4DFB000000000001B2B0
+t1379880443
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c000000005267DC5E00000000000632B0
+t1382538334
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000523F4DFB0000000000008880
+t1379880443
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005267DC5E0000000000015080
+t1382538334
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000523F4DFB00000000000230E0
+t1379880443
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000523F4DFB000000000000E380
+t1379880443
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c00000000523F4DFB0000000000087200
+t1379880443
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c00000000523F4DFB00000000000171A0
+t1379880443
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000523F4DFB0000000000039C10
+t1379880443
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000523F4DFB000000000000B0B0
+t1379880443
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000523F4DFB0000000000167FE0
+t1379880443
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005267DC5E00000000000106A0
+t1382538334
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005267DC5E000000000001CE40
+t1382538334
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000523F4DFB0000000000071040
+t1379880443
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005267DC5E0000000000067A10
+t1382538334
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000523F4DFB000000000001BAD0
+t1379880443
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c000000005267DC5E0000000000088BA0
+t1382538334
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000523F4E070000000000000AC9
+t1379880455
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c000000005267DCA20000000000005004
+t1382538402
+s20484
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/MyRU.LinkFileList
+c0000000052EF9BD70000000000000BBF
+t1391434711
+s3007
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAppDelegate.o
+t1391434715
+s79808
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignment.o
+t1391434715
+s14572
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentCell.o
+t1391434715
+s58020
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentTableViewController.o
+t1391434715
+s69216
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentViewController.o
+t1391434715
+s72368
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUClass.o
+t1391439759
+s15924
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUCustomURLProtocol.o
+t1391434715
+s31620
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUData.o
+t1391444445
+s69708
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGrade.o
+t1391434715
+s18204
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeCell.o
+t1391434715
+s54640
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeViewController.o
+t1391434715
+s59792
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradesTableViewController.o
+t1391434715
+s75668
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RULoginViewController.o
+t1391434715
+s91392
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUMenuViewController.o
+t1391434715
+s67328
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUTabBarController.o
+t1391434715
+s52476
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHpple.o
+t1391434715
+s22980
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHppleElement.o
+t1391434715
+s36796
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/XPathQuery.o
+t1391434715
+s26832
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/main.o
+t1391434715
+s3880
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/assetcatalog_dependencies.txt
+t1391434721
+s894
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/assetcatalog_generated_info.plist
+t1391434721
+s1063
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch.pch
+t1391434714
+s109004
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app
+t1391444446
+s680
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app.dSYM
+t1391444229
+s102
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Base.lproj/Main.storyboardc
+t1391434727
+s544
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Favorites@2x.png
+t1391434715
+s1891
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Files@2x.png
+t1391434715
+s1260
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Info.plist
+t1391434727
+s1112
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/MyRU
+t1391444446
+s204740
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/PkgInfo
+t1391434727
+s8
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/centered_white.png
+t1391434715
+s28387
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/default_white.png
+t1391434715
+s43989
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/en.lproj/InfoPlist.strings
+t1391434715
+s42
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/greencheck.png
+t1391434715
+s1237
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/hnifapar@2x.png
+t1391434715
+s1303
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/logout@2x.png
+t1391434715
+s5017
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/Base.lproj/Main.storyboard
+c0000000052EF867B000000000000D069
+t1391429243
+s53353
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/Favorites@2x.png
+c0000000052655A3C0000000000000763
+t1382373948
+s1891
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/Files@2x.png
+c0000000052655A3C00000000000004EC
+t1382373948
+s1260
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/Images.xcassets
+c0000000052C1F10900000000000000AA
+t1388441865
+s170
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/MyRU-Info.plist
+c0000000052CC3C6A000000000000045E
+t1389116522
+s1118
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/MyRU-Prefix.pch
+c0000000052A356420000000000000158
+t1386436162
+s344
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAppDelegate.h
+c0000000052A64FE4000000000000012F
+t1386631140
+s303
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAppDelegate.m
+c0000000052C4486B0000000000000F17
+t1388595307
+s3863
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignment.h
+c0000000052A77AD50000000000000203
+t1386707669
+s515
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignment.m
+c0000000052A77B7400000000000000DC
+t1386707828
+s220
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentCell.h
+c0000000052ADC4010000000000000159
+t1387119617
+s345
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentCell.m
+c0000000052EF7DDD00000000000005A4
+t1391427037
+s1444
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentTableViewController.h
+c0000000052AA595E0000000000000114
+t1386895710
+s276
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentTableViewController.m
+c0000000052BBFC5F00000000000012A0
+t1388051551
+s4768
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentViewController.h
+c0000000052B397280000000000000154
+t1387501352
+s340
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentViewController.m
+c0000000052E10C640000000000000B9E
+t1390480484
+s2974
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUClass.h
+c0000000052EFAF8100000000000001FE
+t1391439745
+s510
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUClass.m
+c0000000052EFAF680000000000000158
+t1391439720
+s344
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUCustomURLProtocol.h
+c0000000052B36D400000000000000212
+t1387490624
+s530
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUCustomURLProtocol.m
+c0000000052C2CCCE0000000000000EE0
+t1388498126
+s3808
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.h
+c0000000052AD22DA00000000000001B2
+t1387078362
+s434
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.m
+c0000000052EFC1DB00000000000042F6
+t1391444443
+s17142
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGrade.h
+c0000000052A78C3D000000000000020B
+t1386712125
+s523
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGrade.m
+c0000000052A78C5A0000000000000594
+t1386712154
+s1428
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeCell.h
+c0000000052AC82CC000000000000011D
+t1387037388
+s285
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeCell.m
+c0000000052B4739B0000000000000435
+t1387557787
+s1077
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeViewController.h
+c0000000052B3A16B000000000000013B
+t1387503979
+s315
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeViewController.m
+c0000000052B73A44000000000000065E
+t1387739716
+s1630
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradesTableViewController.h
+c0000000052AA03E5000000000000010C
+t1386873829
+s268
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradesTableViewController.m
+c0000000052B7048100000000000010C8
+t1387725953
+s4296
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RULoginViewController.h
+c0000000052A8F5CB0000000000000216
+t1386804683
+s534
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RULoginViewController.m
+c0000000052EEE86B0000000000001B27
+t1391388779
+s6951
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUMenuViewController.h
+c0000000052B3BE4800000000000000F9
+t1387511368
+s249
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUMenuViewController.m
+c0000000052B74C4C00000000000007FE
+t1387744332
+s2046
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUTabBarController.h
+c0000000052AC97290000000000000135
+t1387042601
+s309
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUTabBarController.m
+c0000000052B3AD6A00000000000007E6
+t1387507050
+s2022
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RuGrade.h
+c0000000052A78C3D000000000000020B
+t1386712125
+s523
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/TFHpple.h
+c0000000052ACDD860000000000000967
+t1387060614
+s2407
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/TFHppleElement.h
+c0000000052ACDD860000000000001045
+t1387060614
+s4165
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/centered_white.png
+c0000000052655A3C0000000000006EE3
+t1382373948
+s28387
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/default_white.png
+c0000000052B73804000000000000ABD5
+t1387739140
+s43989
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/en.lproj/InfoPlist.strings
+c0000000052A35642000000000000002D
+t1386436162
+s45
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/greencheck.png
+c0000000052655A3C00000000000004D5
+t1382373948
+s1237
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hnifapar@2x.png
+c00000000529281DB0000000000000517
+t1385333211
+s1303
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHpple.h
+c0000000052A3D16A0000000000000967
+t1386467690
+s2407
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHpple.m
+c0000000052A3D16A0000000000001001
+t1386467690
+s4097
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHppleElement.h
+c0000000052A3D16A0000000000001045
+t1386467690
+s4165
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHppleElement.m
+c0000000052A3D16A000000000000199E
+t1386467690
+s6558
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/XPathQuery.h
+c0000000052A3D16A00000000000001D7
+t1386467690
+s471
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/XPathQuery.m
+c0000000052C02E2F0000000000001981
+t1388326447
+s6529
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/logout@2x.png
+c0000000052AA55D80000000000001399
+t1386894808
+s5017
+
+N/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/main.m
+c0000000052A8F631000000000000016C
+t1386804785
+s364
+
+N/usr/lib/libSystem.B.dylib
+c000000005266DDA5000000000000E6D0
+t1382473125
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005266DDBA0000000000012A00
+t1382473146
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005266DD96000000000002E320
+t1382473110
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005266DDA50000000000021860
+t1382473125
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005266DDB8000000000001B620
+t1382473144
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005266DDB800000000000BD920
+t1382473144
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c000000005266DDBB00000000000141F0
+t1382473147
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005266DDBA000000000000A120
+t1382473146
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c000000005266DDBA000000000001D550
+t1382473146
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005266DDB80000000000014EE0
+t1382473144
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005266DDBD0000000000010380
+t1382473149
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005266DDBD000000000000C4C0
+t1382473149
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005266DDBA00000000000357A0
+t1382473146
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005266DDBA000000000000C070
+t1382473146
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005266DDA50000000000168C00
+t1382473125
+s1477632
+
+N/usr/lib/system/libsystem_configuration.dylib
+c000000005266DDB80000000000010630
+t1382473144
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005266DDBC000000000001DF10
+t1382473148
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005266DDA50000000000075B00
+t1382473125
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005266DDA5000000000007CC70
+t1382473125
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005266DDA500000000000766C0
+t1382473125
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c000000005266DDBB0000000000044DC0
+t1382473147
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005266DDA50000000000021FA0
+t1382473125
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c000000005266DDBB000000000002D900
+t1382473147
+s186624
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005266DDBB000000000001E570
+t1382473147
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c000000005266DDAC000000000000CC70
+t1382473132
+s52336
+
+N/usr/lib/system/libsystem_stats.dylib
+c000000005266DDB100000000000099B0
+t1382473137
+s39344
+
+N/usr/lib/system/libunc.dylib
+c000000005266DDB2000000000000C3F0
+t1382473138
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005266DDBB00000000000199F0
+t1382473147
+s104944
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAppDelegate.m
+r0
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignment.m
+r0
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentCell.m
+r0
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentTableViewController.m
+r0
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentViewController.m
+r0
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUClass.m
+r0
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUCustomURLProtocol.m
+r0
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.m
+r0
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGrade.m
+r0
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeCell.m
+r0
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeViewController.m
+r0
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradesTableViewController.m
+r0
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RULoginViewController.m
+r0
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUMenuViewController.m
+r0
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUTabBarController.m
+r0
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHpple.m
+r0
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHppleElement.m
+r0
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/XPathQuery.m
+r0
+
+CBuild AST from /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesdb13ec5df99fb841^a759ec5df99fb841^---0#1#1#--18"Check dependencies36"B822359A-0586-4809-A42B-5DCA6644C4F5-
+
+CCompileAssetCatalog /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/Images.xcassets
+s413127515.883092
+e413127521.053247
+r1
+xCompileAssetCatalog
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/AppIcon29x29@2x.png
+o/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/AppIcon40x40@2x.png
+o/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/AppIcon60x60@2x.png
+o/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/LaunchImage-700@2x.png
+o/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/LaunchImage-700-568h@2x.png
+o/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Assets.car
+o/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"CompileAssetCatalog DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app MyRU/Images.xcassets103"CompileAssetCatalog DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app MyRU/Images.xcassetsbb28e25bd39fb841^98a10d61d39fb841^-918"/* com.apple.actool.compilation-results *//Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/AppIcon29x29@2x.png/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/AppIcon40x40@2x.png/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/AppIcon60x60@2x.png/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/LaunchImage-700@2x.png/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/LaunchImage-700-568h@2x.png/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Assets.car/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@65"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/Images.xcassets/0000000000000000^1172"CompileAssetCatalog DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app MyRU/Images.xcassets    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/Images.xcassets36"1F988AEA-3673-43B7-AED0-4EC4EEE2933D-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAppDelegate.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413127514.980987
+e413127515.195140
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAppDelegate.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAppDelegate.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAppDelegate.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUTabBarController.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUCustomURLProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAppDelegate.m218"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAppDelegate.o MyRU/RUAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler363efb5ad39fb841^01f6315bd39fb841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAppDelegate.m0000000000000000^4005"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAppDelegate.o MyRU/RUAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAppDelegate.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAppDelegate.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAppDelegate.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAppDelegate.o36"F027A96C-E8B4-4F8C-B3D9-9089EC7F7086-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignment.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignment.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413127514.978363
+e413127515.183001
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignment.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignment.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignment.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignment.m216"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignment.o MyRU/RUAssignment.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2191fa5ad39fb841^27d92e5bd39fb841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignment.m0000000000000000^3999"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignment.o MyRU/RUAssignment.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignment.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignment.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignment.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignment.o36"4959BD1B-09AA-435D-8F60-45359653FD53-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentCell.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413127515.195778
+e413127515.365307
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentCell.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentCell.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentCell.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentCell.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentCell.m224"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentCell.o MyRU/RUAssignmentCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9f3a325bd39fb841^b2845d5bd39fb841^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentCell.m0000000000000000^4023"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentCell.o MyRU/RUAssignmentCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentCell.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentCell.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentCell.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentCell.o36"62BADEB6-36C2-4C05-8F7A-214CEF46A66E-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentTableViewController.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413127515.631724
+e413127515.713716
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentTableViewController.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentTableViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentTableViewController.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentTableViewController.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUTabBarController.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentCell.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignment.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentTableViewController.m254"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentTableViewController.o MyRU/RUAssignmentTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfb06a25bd39fb841^4ab6b65bd39fb841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentTableViewController.m0000000000000000^4113"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentTableViewController.o MyRU/RUAssignmentTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentTableViewController.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentTableViewController.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentTableViewController.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentTableViewController.o36"5F17671C-E45E-4F2E-B6BF-5D3549748B97-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentViewController.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413127515.425263
+e413127515.562000
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentViewController.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentViewController.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentViewController.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignment.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentViewController.m244"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentViewController.o MyRU/RUAssignmentViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler00ff6c5bd39fb841^65e18f5bd39fb841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentViewController.m0000000000000000^4083"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentViewController.o MyRU/RUAssignmentViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentViewController.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentViewController.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignmentViewController.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentViewController.o36"5B847A90-226F-4CAE-BE58-C49206CF846F-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUClass.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUClass.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413132559.755382
+e413132559.791935
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUClass.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUClass.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUClass.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUClass.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUClass.m206"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUClass.o MyRU/RUClass.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler897ec10fe79fb841^62bcca0fe79fb841^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUClass.m0000000000000000^3969"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUClass.o MyRU/RUClass.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUClass.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUClass.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUClass.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUClass.o36"C704E2BA-7E6B-4FA0-9C28-8BB19CC5ABE4-
+b201B3BD8-07D0-476F-B341-3F3B91FD2836
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUCustomURLProtocol.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUCustomURLProtocol.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413127515.334875
+e413127515.426814
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUCustomURLProtocol.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUCustomURLProtocol.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUCustomURLProtocol.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUCustomURLProtocol.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUCustomURLProtocol.m230"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUCustomURLProtocol.o MyRU/RUCustomURLProtocol.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera6d4555bd39fb841^f2436d5bd39fb841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUCustomURLProtocol.m0000000000000000^4041"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUCustomURLProtocol.o MyRU/RUCustomURLProtocol.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUCustomURLProtocol.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUCustomURLProtocol.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUCustomURLProtocol.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUCustomURLProtocol.o36"EFA65C06-5C58-4D5B-BDCC-D3764E616F54-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUData.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413137245.923616
+e413137245.982629
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUData.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/TFHpple.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/TFHppleElement.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUClass.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAssignment.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGrade.h
+o/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.m:292:39: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+o                                NSLog(info[2]);
+o                                      ^~~~~~~
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.m204"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUData.o MyRU/RUData.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler4c89ec5df99fb841^8f8efb5df99fb841^-264"/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.m:292:39: warning: format string is not a string literal (potentially insecure) [-Wformat-security]                                NSLog(info[2]);                                      ^~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@60"Format string is not a string literal (potentially insecure)-413137245#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@57"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.m0000000000000000^291#38#291#38#10164#0#19"Format String Issue1(3@57"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.m0000000000000000^291#38#291#45#10164#6#-0#0#1#-19%DVTDocumentLocation4@57"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.m0000000000000000^3963"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUData.o MyRU/RUData.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUData.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUData.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUData.o36"5BED537D-D714-4B74-9EF1-017118E02378-
+bBC3CB33B-F154-429F-A038-F77EE75FE7EC
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGrade.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGrade.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413127515.632316
+e413127515.688449
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGrade.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGrade.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGrade.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGrade.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGrade.m206"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGrade.o MyRU/RUGrade.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc05da25bd39fb841^533eb05bd39fb841^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGrade.m0000000000000000^3969"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGrade.o MyRU/RUGrade.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGrade.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGrade.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGrade.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGrade.o36"73D48D2F-5629-49F2-9EE5-A7714CCEBC3F-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeCell.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413127515.573464
+e413127515.674321
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeCell.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeCell.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeCell.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeCell.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGrade.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeCell.m214"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeCell.o MyRU/RUGradeCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3eeb925bd39fb841^b2a0ac5bd39fb841^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeCell.m0000000000000000^3993"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeCell.o MyRU/RUGradeCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeCell.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeCell.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeCell.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeCell.o36"F86B5F81-48EE-4D38-B996-5F996BC3336C-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeViewController.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413127515.333651
+e413127515.499978
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeViewController.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeViewController.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeViewController.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGrade.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeViewController.m234"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeViewController.o MyRU/RUGradeViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera986555bd39fb841^da00805bd39fb841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeViewController.m0000000000000000^4053"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeViewController.o MyRU/RUGradeViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeViewController.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeViewController.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeViewController.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeViewController.o36"2A80CC0E-EAA4-468E-A679-686C845A00C2-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradesTableViewController.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradesTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413127515.428293
+e413127515.572796
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradesTableViewController.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradesTableViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradesTableViewController.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradesTableViewController.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RuGrade.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeCell.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUTabBarController.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradeViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradesTableViewController.m246"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradesTableViewController.o MyRU/RUGradesTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8fc26d5bd39fb841^40a5925bd39fb841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradesTableViewController.m0000000000000000^4089"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradesTableViewController.o MyRU/RUGradesTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradesTableViewController.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradesTableViewController.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUGradesTableViewController.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradesTableViewController.o36"24A88959-FB25-40E6-BA26-D7A91A18AA78-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RULoginViewController.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RULoginViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413127515.500378
+e413127515.631865
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RULoginViewController.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RULoginViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RULoginViewController.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RULoginViewController.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RULoginViewController.m234"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RULoginViewController.o MyRU/RULoginViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere140805bd39fb841^7d78a25bd39fb841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RULoginViewController.m0000000000000000^4053"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RULoginViewController.o MyRU/RULoginViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RULoginViewController.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RULoginViewController.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RULoginViewController.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RULoginViewController.o36"69109415-A7F2-42C7-B97C-6B44108BCBA2-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUMenuViewController.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUMenuViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413127515.182938
+e413127515.333207
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUMenuViewController.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUMenuViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUMenuViewController.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUMenuViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUMenuViewController.m232"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUMenuViewController.o MyRU/RUMenuViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler83fa2e5bd39fb841^554c555bd39fb841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUMenuViewController.m0000000000000000^4047"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUMenuViewController.o MyRU/RUMenuViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUMenuViewController.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUMenuViewController.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUMenuViewController.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUMenuViewController.o36"7194F676-436B-46BD-BACD-AE0F3B1DB8F6-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUTabBarController.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUTabBarController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413127515.366969
+e413127515.500722
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUTabBarController.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUTabBarController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUTabBarController.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUTabBarController.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUData.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUTabBarController.m228"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUTabBarController.o MyRU/RUTabBarController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler910f5e5bd39fb841^952b805bd39fb841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUTabBarController.m0000000000000000^4035"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUTabBarController.o MyRU/RUTabBarController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUTabBarController.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUTabBarController.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUTabBarController.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUTabBarController.o36"4E571A58-5312-49E1-A220-CBD0395687DB-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHpple.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHpple.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413127515.184246
+e413127515.333602
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHpple.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHpple.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHpple.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHpple.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHppleElement.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/XPathQuery.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHpple.m212"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHpple.o MyRU/hpple/TFHpple.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler52472f5bd39fb841^3068555bd39fb841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHpple.m0000000000000000^3981"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHpple.o MyRU/hpple/TFHpple.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHpple.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHpple.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHpple.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHpple.o36"7E4E7379-E67A-463E-AEDF-982110D68348-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHppleElement.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHppleElement.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413127515.500951
+e413127515.631262
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHppleElement.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHppleElement.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHppleElement.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHppleElement.h
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/XPathQuery.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHppleElement.m226"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHppleElement.o MyRU/hpple/TFHppleElement.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8659805bd39fb841^828fa15bd39fb841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHppleElement.m0000000000000000^4023"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHppleElement.o MyRU/hpple/TFHppleElement.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHppleElement.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHppleElement.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/TFHppleElement.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHppleElement.o36"84E9C7EA-8550-45CA-B35B-1279237F975E-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/XPathQuery.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/XPathQuery.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413127515.215787
+e413127515.422742
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/XPathQuery.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/XPathQuery.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/XPathQuery.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/XPathQuery.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/tree.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlversion.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlexports.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlstring.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlregexp.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/dict.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlmemory.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/threads.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/globals.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/parser.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/hash.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/valid.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlerror.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/list.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlautomata.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/entities.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/encoding.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlIO.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/SAX.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xlink.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/SAX2.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/HTMLparser.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xpath.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xpathInternals.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/XPathQuery.m218"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/XPathQuery.o MyRU/hpple/XPathQuery.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler215a375bd39fb841^323a6c5bd39fb841^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/XPathQuery.m0000000000000000^3999"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/XPathQuery.o MyRU/hpple/XPathQuery.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/XPathQuery.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/XPathQuery.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hpple/XPathQuery.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/XPathQuery.o36"D09B1B90-00CF-4AD1-BB3F-72E692FD9B38-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/main.o /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413127514.978012
+e413127515.182686
+r1
+xCompileC
+xDerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/main.o
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/main.m
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/RUAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/main.m200"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/main.o MyRU/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc2c1fa5ad39fb841^d6c42e5bd39fb841^---0#0#1#-19%DVTDocumentLocation2@55"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/main.m0000000000000000^3951"CompileC DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/main.o MyRU/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -include /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/main.dia -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/main.m -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/main.o36"55D6BC9D-9A00-4E7A-864E-43DD20864234-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCompileStoryboard /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/Base.lproj/Main.storyboard
+s413127515.853931
+e413127527.131726
+r1
+xCompileStoryboard
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"CompileStoryboard MyRU/Base.lproj/Main.storyboard49"CompileStoryboard MyRU/Base.lproj/Main.storyboarde1b2da5bd39fb841^1fb92167d39fb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/Base.lproj/Main.storyboard0000000000000000^841"CompileStoryboard MyRU/Base.lproj/Main.storyboard    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Base.lproj/Main.storyboardc /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/Base.lproj/Main.storyboard36"50359882-593D-4B42-8F04-FDB9427F833B-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCopyStringsFile /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/en.lproj/InfoPlist.strings MyRU/en.lproj/InfoPlist.strings
+s413127515.848103
+e413127515.895800
+r1
+xCopyStringsFile
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/en.lproj/InfoPlist.strings
+xMyRU/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy MyRU/en.lproj/InfoPlist.strings137"CopyStringsFile DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/en.lproj/InfoPlist.strings MyRU/en.lproj/InfoPlist.strings5934d95bd39fb841^8654e55bd39fb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/en.lproj/InfoPlist.strings0000000000000000^611"CopyStringsFile DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/en.lproj/InfoPlist.strings MyRU/en.lproj/InfoPlist.strings    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/en.lproj -- MyRU/en.lproj/InfoPlist.strings36"B1A43986-54D6-422B-9E47-C160CC088DAA-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCpResource MyRU/Favorites@2x.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Favorites@2x.png
+s413127515.818114
+e413127515.847942
+r1
+xCpResource
+xMyRU/Favorites@2x.png
+xDerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Favorites@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Favorites@2x.png112"CpResource MyRU/Favorites@2x.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Favorites@2x.pngaa82d15bd39fb841^e813d95bd39fb841^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Favorites@2x.png0034f00edeffdf42^623"CpResource MyRU/Favorites@2x.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Favorites@2x.png    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/Favorites@2x.png /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app36"9223E945-1C36-4668-9BED-EF3B79EDE860-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCpResource MyRU/Files@2x.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Files@2x.png
+s413127515.836596
+e413127515.871091
+r1
+xCpResource
+xMyRU/Files@2x.png
+xDerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Files@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Files@2x.png104"CpResource MyRU/Files@2x.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Files@2x.pnga33dd65bd39fb841^2600df5bd39fb841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Files@2x.png0034f00edeffdf42^611"CpResource MyRU/Files@2x.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Files@2x.png    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/Files@2x.png /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app36"14709486-0522-49D8-93D1-1C1219302C46-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCpResource MyRU/centered_white.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/centered_white.png
+s413127515.871250
+e413127515.920466
+r1
+xCpResource
+xMyRU/centered_white.png
+xDerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/centered_white.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/centered_white.png116"CpResource MyRU/centered_white.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/centered_white.png581bdf5bd39fb841^4fb0eb5bd39fb841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/centered_white.png0034f00edeffdf42^629"CpResource MyRU/centered_white.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/centered_white.png    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/centered_white.png /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app36"88AB529A-3465-4663-81FB-F1650A06FE97-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCpResource MyRU/default_white.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/default_white.png
+s413127515.817347
+e413127515.835253
+r1
+xCpResource
+xMyRU/default_white.png
+xDerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/default_white.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/default_white.png114"CpResource MyRU/default_white.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/default_white.png4e61d15bd39fb841^99d3d55bd39fb841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/default_white.png0034f00edeffdf42^626"CpResource MyRU/default_white.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/default_white.png    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/default_white.png /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app36"277A30C5-F459-4B88-9D22-55CF5C725B9C-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCpResource MyRU/greencheck.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/greencheck.png
+s413127515.817177
+e413127515.832092
+r1
+xCpResource
+xMyRU/greencheck.png
+xDerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/greencheck.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/greencheck.png108"CpResource MyRU/greencheck.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/greencheck.png0647d15bd39fb841^ff3cd55bd39fb841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/greencheck.png0034f00edeffdf42^617"CpResource MyRU/greencheck.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/greencheck.png    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/greencheck.png /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app36"1DCCBBC5-4D39-4F0A-848B-ACA8DB5F38F9-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCpResource MyRU/hnifapar@2x.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/hnifapar@2x.png
+s413127515.817600
+e413127515.853689
+r1
+xCpResource
+xMyRU/hnifapar@2x.png
+xDerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/hnifapar@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/hnifapar@2x.png110"CpResource MyRU/hnifapar@2x.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/hnifapar@2x.pngaa63d15bd39fb841^3f02db5bd39fb841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/hnifapar@2x.png0034f00edeffdf42^620"CpResource MyRU/hnifapar@2x.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/hnifapar@2x.png    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/hnifapar@2x.png /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app36"F7FB7F40-14E8-4EA5-B076-35996614B676-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CCpResource MyRU/logout@2x.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/logout@2x.png
+s413127515.832407
+e413127515.882913
+r1
+xCpResource
+xMyRU/logout@2x.png
+xDerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/logout@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/logout@2x.png106"CpResource MyRU/logout@2x.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/logout@2x.png1231d55bd39fb841^c503e25bd39fb841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/logout@2x.png0034f00edeffdf42^614"CpResource MyRU/logout@2x.png DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/logout@2x.png    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/logout@2x.png /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app36"3A2B9B5A-6349-4EEF-B6A1-55D0C4C59F3F-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CGenerateDSYMFile /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app.dSYM /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/MyRU
+s413137246.018583
+e413137246.046443
+r1
+xGenerateDSYMFile
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app.dSYM
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/MyRU
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Generate /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app.dSYM152"GenerateDSYMFile DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app.dSYM DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/MyRU8dcf045ef99fb841^f4df0b5ef99fb841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app.dSYM/0000000000000000^705"GenerateDSYMFile DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app.dSYM DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/MyRU    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/MyRU -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app.dSYM36"D6819A84-38A4-4A75-89F3-06D9A6EF1842-
+bBC3CB33B-F154-429F-A038-F77EE75FE7EC
+
+CLd /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/MyRU normal x86_64
+s413137245.984499
+e413137246.016617
+r1
+xLd
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/MyRU
+xnormal
+xx86_64
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/MyRU.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/main.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignment.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUData.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAppDelegate.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUMenuViewController.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHpple.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentCell.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/XPathQuery.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeViewController.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUCustomURLProtocol.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUTabBarController.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentViewController.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradesTableViewController.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RULoginViewController.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/TFHppleElement.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUClass.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGradeCell.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUAssignmentTableViewController.o
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/RUGrade.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libxml2.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Link /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/MyRU84"Ld DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/MyRU normal x86_64c119fc5df99fb841^ee41045ef99fb841^---0#0#1#--1464"Ld DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/MyRU normal x86_64    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator -filelist /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/MyRU.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -lxml2 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/Objects-normal/x86_64/MyRU_dependency_info.dat -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/MyRU36"2DFAA115-0F3F-4B47-AC4E-6C49B1F2CABC-
+bBC3CB33B-F154-429F-A038-F77EE75FE7EC
+
+CProcessInfoPlistFile /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Info.plist /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/MyRU-Info.plist
+s413127527.132245
+e413127527.134492
+r1
+xProcessInfoPlistFile
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Info.plist
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/MyRU-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Process /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/MyRU-Info.plist115"ProcessInfoPlistFile DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Info.plist MyRU/MyRU-Info.plista2f02167d39fb841^546e2267d39fb841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/MyRU-Info.plist0000000000000000^913"ProcessInfoPlistFile DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Info.plist MyRU/MyRU-Info.plist    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/MyRU-Info.plist -genpkginfo /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/assetcatalog_generated_info.plist -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app/Info.plist36"E68B461C-EF0D-42F2-9D95-8EE232AA20A5-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CProcessPCH /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch.pch MyRU/MyRU-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413127511.436404
+e413127514.977230
+r1
+xProcessPCH
+x/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch.pch
+xMyRU/MyRU-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/MyRU-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile MyRU/MyRU-Prefix.pch218"ProcessPCH DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch.pch MyRU/MyRU-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd7da6f57d39fb841^412dfa5ad39fb841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/MyRU-Prefix.pch0000000000000000^3843"ProcessPCH DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch.pch MyRU/MyRU-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bjornorri/repos/MyRU-iOS/MyRU    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-generated-files.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-own-target-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-all-target-headers.hmap -iquote /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/MyRU-project-headers.hmap -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources/x86_64 -I/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/MyRU.build/Debug-iphonesimulator/MyRU.build/DerivedSources -F/Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch.dia -MMD -MT dependencies -MF /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch.d -c /Users/bjornorri/repos/MyRU-iOS/MyRU/MyRU/MyRU-Prefix.pch -o /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Intermediates/PrecompiledHeaders/MyRU-Prefix-gfkngmvvgzcilwfzkilbzqyirsja/MyRU-Prefix.pch.pch36"2D723629-77B3-45E5-82B0-9AB640E0D5DD-
+b2CE7F8D6-850D-45C5-A9A5-F1AABDCE29EC
+
+CProcessPCH /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Index/PrecompiledHeaders/MyRU-Prefix-fzgkueqmrquwztcfyynicchbekye_ast/MyRU-Prefix.pch.pch MyRU/MyRU-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/bjornorri/repos/MyRU-iOS/MyRU/DerivedData/MyRU/Build/Products/Debug-iphonesimulator/MyRU.app
+r0
+
