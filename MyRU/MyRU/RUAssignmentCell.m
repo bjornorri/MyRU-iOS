@@ -45,13 +45,19 @@
     
     if(![[assignment handedIn] isEqualToString:@"Óskilað"])
     {
-        NSLog(@"%@ has been handed in!", [assignment title]);
         [[self doneImage] setHidden:NO];
     }
     else
     {
         [[self doneImage] setHidden:YES];
     }
+    NSLog(@"Setting assignment");
+}
+
+// Prevent checkmark from being displayed when it shouldnt (bug fix)
+-(void)prepareForReuse
+{
+    [[self doneImage] setHidden:YES];
 }
 
 @end
