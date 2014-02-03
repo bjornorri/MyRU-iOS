@@ -83,24 +83,19 @@
         [[self grades] removeAllObjects];
         [self parseHTML];
         
-        NSLog(@"Classes today:\n");
+        /*NSLog(@"Classes today:\n");
         NSLog(@"\n---------------------------------------------------------------------------------------------\n");
         for(RUClass* class in [self classes])
         {
             NSLog(@"%@", [class course]);
             
-            NSMutableString* teachers = [[class teachers] firstObject];
-            for(int i = 1; i < [class.teachers count]; i++)
-            {
-                [teachers appendString:@", "];
-                [teachers appendString:[class.teachers objectAtIndex:i]];
-            }
+            NSString* teachers = [[class teachers] componentsJoinedByString:@", "];
             NSLog(@"Kennari: %@", teachers);
             NSLog(@"Stofa: %@", [class location]);
             NSLog(@"%@", [class type]);
             NSLog(@"%@ - %@", [class startTime], [class endTime]);
             NSLog(@"\n---------------------------------------------------------------------------------------------\n");
-        }
+        }*/
     }
     
     else if(statusCode1 == 200)
@@ -296,7 +291,7 @@
                             {
                                 if([info[i] rangeOfString:@"Kennari: "].location == 0)
                                 {
-                                    [[class teachers] addObject:[info[i] substringFromIndex:9]];
+                                    [[class teachers] addObject:[[info[i] substringFromIndex:9] stringByTrimmingCharactersInSet:[NSCharacterSet newlineCharacterSet]]];
                                 }
                             }
                             
@@ -309,8 +304,8 @@
                             // Set start and end time
                             TFHppleElement* timeColumn = columns[0];
                             NSArray* time = [[timeColumn text] componentsSeparatedByString:@" "]; // &nbsp
-                            class.startTime = time[0];
-                            class.endTime = time[1];
+                            class.startTime = [time[0] stringByTrimmingCharactersInSet:[NSCharacterSet newlineCharacterSet]];
+                            class.endTime = [time[1] stringByTrimmingCharactersInSet:[NSCharacterSet newlineCharacterSet]];
                             
                             // Add to classes
                             [[self classes] addObject:class];
