@@ -221,7 +221,6 @@
         
         if([timeTable count] == 1)
         {
-            NSLog(@"Got timetable!");
             NSString* classString = @"//div[@class='ruContentPage']/center[1]/table/tbody/tr";
             hppleClasses = [htmlTimeTableParser searchWithXPathQuery:classString];
         }
@@ -273,17 +272,18 @@
                             class.course = info[0];
                             
                             // Set type
-                            if([info[2] rangeOfString:@"Fyrirlestrar"].location == 0)
+                            NSString* typeString = [info[2] stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceAndNewlineCharacterSet]];
+                            if([typeString isEqualToString:@"Fyrirlestrar"])
                             {
                                 class.type = @"Fyrirlestur";
                             }
-                            else if([info[2] rangeOfString:@"Dæmatímar"].location == 0)
+                            else if([typeString isEqualToString:@"Dæmatímar"])
                             {
                                 class.type = @"Dæmatími";
                             }
                             else
                             {
-                                class.type = info[2];
+                                class.type = typeString;
                             }
                             
                             // Set teachers (i starts at 0 on purpose, just in case something is not as it should be)

@@ -15,6 +15,7 @@
 - (void)setAuthentication:(NSString *)string;
 - (NSString*)getAuthentication;
 - (int)refreshData;
+- (NSArray*)getClasses;
 - (NSArray*)getAssignments;
 - (NSArray*)getGrades;
 - (void)clearData;

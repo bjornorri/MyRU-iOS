@@ -27,7 +27,6 @@
 		982C494718538DC2006D78F4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 982C494518538DC2006D78F4 /* InfoPlist.strings */; };
 		982C494918538DC2006D78F4 /* MyRUTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 982C494818538DC2006D78F4 /* MyRUTests.m */; };
 		9832D9011863F5C8007DB8CF /* RUMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9832D9001863F5C8007DB8CF /* RUMenuViewController.m */; };
-		9832D9031863F70A007DB8CF /* hnifapar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9832D9021863F70A007DB8CF /* hnifapar@2x.png */; };
 		9834D5EE185CC29A008F2061 /* greencheck.png in Resources */ = {isa = PBXBuildFile; fileRef = 9834D5ED185CC29A008F2061 /* greencheck.png */; };
 		983500D81858C33D0006FEF8 /* RUTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 983500D71858C33C0006FEF8 /* RUTabBarController.m */; };
 		983FD39F185A8D740024B714 /* logout@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 983FD39E185A8D740024B714 /* logout@2x.png */; };
@@ -37,6 +36,14 @@
 		98A7D9641859274D003AB170 /* RULoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 98A7D9631859274D003AB170 /* RULoginViewController.m */; };
 		98A7D96618592945003AB170 /* centered_white.png in Resources */ = {isa = PBXBuildFile; fileRef = 98A7D96518592945003AB170 /* centered_white.png */; };
 		98B9AB2518676F9700CB6400 /* default_white.png in Resources */ = {isa = PBXBuildFile; fileRef = 98B9AB2418676F9700CB6400 /* default_white.png */; };
+		98B9E4F918A00EB3008E9944 /* RUTimeTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 98B9E4F818A00EB3008E9944 /* RUTimeTableViewController.m */; };
+		98B9E4FD18A011D1008E9944 /* hnifapar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 98B9E4FC18A011D1008E9944 /* hnifapar@2x.png */; };
+		98B9E50118A014B1008E9944 /* timetable@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 98B9E50018A014B1008E9944 /* timetable@2x.png */; };
+		98B9E50418A01636008E9944 /* RUClassCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 98B9E50318A01636008E9944 /* RUClassCell.m */; };
+		98B9E50C18A02D58008E9944 /* lab@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 98B9E50B18A02D58008E9944 /* lab@2x.png */; };
+		98B9E50E18A02F55008E9944 /* lecture@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 98B9E50D18A02F55008E9944 /* lecture@2x.png */; };
+		98B9E51018A03DE7008E9944 /* help@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 98B9E50F18A03DE7008E9944 /* help@2x.png */; };
+		98B9E51218A249C5008E9944 /* rulogo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 98B9E51118A249C5008E9944 /* rulogo@2x.png */; };
 		98CE65EE185A90DE007EFE90 /* RUAssignmentTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 98CE65ED185A90DE007EFE90 /* RUAssignmentTableViewController.m */; };
 		98CE65F1185A916B007EFE90 /* RUAssignmentCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 98CE65F0185A916B007EFE90 /* RUAssignmentCell.m */; };
 		98E1944A1857C397007F9990 /* RUGrade.m in Sources */ = {isa = PBXBuildFile; fileRef = 98E194491857C397007F9990 /* RUGrade.m */; };
@@ -88,7 +95,6 @@
 		982C494818538DC2006D78F4 /* MyRUTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyRUTests.m; sourceTree = "<group>"; };
 		9832D8FF1863F5C8007DB8CF /* RUMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RUMenuViewController.h; sourceTree = "<group>"; };
 		9832D9001863F5C8007DB8CF /* RUMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RUMenuViewController.m; sourceTree = "<group>"; };
-		9832D9021863F70A007DB8CF /* hnifapar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hnifapar@2x.png"; sourceTree = "<group>"; };
 		9834D5ED185CC29A008F2061 /* greencheck.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greencheck.png; sourceTree = "<group>"; };
 		983500D61858C33C0006FEF8 /* RUTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RUTabBarController.h; sourceTree = "<group>"; };
 		983500D71858C33C0006FEF8 /* RUTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RUTabBarController.m; sourceTree = "<group>"; };
@@ -102,6 +108,16 @@
 		98A7D9631859274D003AB170 /* RULoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RULoginViewController.m; sourceTree = "<group>"; };
 		98A7D96518592945003AB170 /* centered_white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = centered_white.png; sourceTree = "<group>"; };
 		98B9AB2418676F9700CB6400 /* default_white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = default_white.png; sourceTree = "<group>"; };
+		98B9E4F718A00EB3008E9944 /* RUTimeTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RUTimeTableViewController.h; sourceTree = "<group>"; };
+		98B9E4F818A00EB3008E9944 /* RUTimeTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RUTimeTableViewController.m; sourceTree = "<group>"; };
+		98B9E4FC18A011D1008E9944 /* hnifapar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hnifapar@2x.png"; sourceTree = "<group>"; };
+		98B9E50018A014B1008E9944 /* timetable@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "timetable@2x.png"; sourceTree = "<group>"; };
+		98B9E50218A01636008E9944 /* RUClassCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RUClassCell.h; sourceTree = "<group>"; };
+		98B9E50318A01636008E9944 /* RUClassCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RUClassCell.m; sourceTree = "<group>"; };
+		98B9E50B18A02D58008E9944 /* lab@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lab@2x.png"; sourceTree = "<group>"; };
+		98B9E50D18A02F55008E9944 /* lecture@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lecture@2x.png"; sourceTree = "<group>"; };
+		98B9E50F18A03DE7008E9944 /* help@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "help@2x.png"; sourceTree = "<group>"; };
+		98B9E51118A249C5008E9944 /* rulogo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rulogo@2x.png"; sourceTree = "<group>"; };
 		98CE65EC185A90DE007EFE90 /* RUAssignmentTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RUAssignmentTableViewController.h; sourceTree = "<group>"; };
 		98CE65ED185A90DE007EFE90 /* RUAssignmentTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RUAssignmentTableViewController.m; sourceTree = "<group>"; };
 		98CE65EF185A916B007EFE90 /* RUAssignmentCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RUAssignmentCell.h; sourceTree = "<group>"; };
@@ -164,6 +180,8 @@
 				98CE65F0185A916B007EFE90 /* RUAssignmentCell.m */,
 				9821AA5D185A3C5D00EF792D /* RUGradeCell.h */,
 				9821AA5E185A3C5D00EF792D /* RUGradeCell.m */,
+				98B9E50218A01636008E9944 /* RUClassCell.h */,
+				98B9E50318A01636008E9944 /* RUClassCell.m */,
 			);
 			name = Cells;
 			sourceTree = "<group>";
@@ -213,6 +231,8 @@
 				98CE65ED185A90DE007EFE90 /* RUAssignmentTableViewController.m */,
 				9821AA59185A3B6500EF792D /* RUGradesTableViewController.h */,
 				9821AA5A185A3B6500EF792D /* RUGradesTableViewController.m */,
+				98B9E4F718A00EB3008E9944 /* RUTimeTableViewController.h */,
+				98B9E4F818A00EB3008E9944 /* RUTimeTableViewController.m */,
 				983500D61858C33C0006FEF8 /* RUTabBarController.h */,
 				983500D71858C33C0006FEF8 /* RUTabBarController.m */,
 				9896119C185D576F0014FE99 /* RUAssignmentViewController.h */,
@@ -273,8 +293,13 @@
 		98E194471857C1CA007F9990 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				98B9E50B18A02D58008E9944 /* lab@2x.png */,
+				98B9E50F18A03DE7008E9944 /* help@2x.png */,
+				98B9E50018A014B1008E9944 /* timetable@2x.png */,
+				98B9E51118A249C5008E9944 /* rulogo@2x.png */,
+				98B9E50D18A02F55008E9944 /* lecture@2x.png */,
+				98B9E4FC18A011D1008E9944 /* hnifapar@2x.png */,
 				98B9AB2418676F9700CB6400 /* default_white.png */,
-				9832D9021863F70A007DB8CF /* hnifapar@2x.png */,
 				9834D5ED185CC29A008F2061 /* greencheck.png */,
 				983FD39E185A8D740024B714 /* logout@2x.png */,
 				98935498185A7E8E0023FB72 /* Files@2x.png */,
@@ -377,14 +402,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98B9E50118A014B1008E9944 /* timetable@2x.png in Resources */,
 				9834D5EE185CC29A008F2061 /* greencheck.png in Resources */,
 				98B9AB2518676F9700CB6400 /* default_white.png in Resources */,
-				9832D9031863F70A007DB8CF /* hnifapar@2x.png in Resources */,
 				9821AA55185A3AAD00EF792D /* Favorites@2x.png in Resources */,
+				98B9E51218A249C5008E9944 /* rulogo@2x.png in Resources */,
+				98B9E50C18A02D58008E9944 /* lab@2x.png in Resources */,
 				983FD39F185A8D740024B714 /* logout@2x.png in Resources */,
+				98B9E4FD18A011D1008E9944 /* hnifapar@2x.png in Resources */,
 				982C493618538DC2006D78F4 /* Images.xcassets in Resources */,
 				98935499185A7E8E0023FB72 /* Files@2x.png in Resources */,
 				982C492818538DC2006D78F4 /* InfoPlist.strings in Resources */,
+				98B9E50E18A02F55008E9944 /* lecture@2x.png in Resources */,
+				98B9E51018A03DE7008E9944 /* help@2x.png in Resources */,
 				982C493118538DC2006D78F4 /* Main.storyboard in Resources */,
 				98A7D96618592945003AB170 /* centered_white.png in Resources */,
 			);
@@ -408,6 +438,7 @@
 				982C492A18538DC2006D78F4 /* main.m in Sources */,
 				9821678D1857B01300897A12 /* RUAssignment.m in Sources */,
 				98E46336185688A30004E7FF /* RUData.m in Sources */,
+				98B9E4F918A00EB3008E9944 /* RUTimeTableViewController.m in Sources */,
 				982C492E18538DC2006D78F4 /* RUAppDelegate.m in Sources */,
 				9832D9011863F5C8007DB8CF /* RUMenuViewController.m in Sources */,
 				98E4632F185686390004E7FF /* TFHpple.m in Sources */,
@@ -416,6 +447,7 @@
 				981CE47C1863D81F00BF2EF5 /* RUGradeViewController.m in Sources */,
 				989611E3185E29DA0014FE99 /* RUCustomURLProtocol.m in Sources */,
 				983500D81858C33D0006FEF8 /* RUTabBarController.m in Sources */,
+				98B9E50418A01636008E9944 /* RUClassCell.m in Sources */,
 				9896119E185D576F0014FE99 /* RUAssignmentViewController.m in Sources */,
 				9821AA5B185A3B6500EF792D /* RUGradesTableViewController.m in Sources */,
 				98A7D9641859274D003AB170 /* RULoginViewController.m in Sources */,
