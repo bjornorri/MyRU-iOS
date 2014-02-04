@@ -36,12 +36,18 @@
     
     [self.refreshControl setTintColor:[UIColor grayColor]];
     [self.refreshControl addTarget:self action:@selector(reloadData) forControlEvents:UIControlEventValueChanged];
-
+    
     // Uncomment the following line to preserve selection between presentations.
     // self.clearsSelectionOnViewWillAppear = NO;
  
     // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
+}
+
+
+- (void)viewWillAppear:(BOOL)animated
+{
+    [self.tableView reloadData];
 }
 
 // Fetch the page again, parse and reload the data in all table views.
@@ -67,7 +73,7 @@
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
-    int rows = (int)[[[RUData sharedData] getClasses] count];
+    int rows = (int)[[[RUData sharedData] getNextClasses] count];
     
     if(rows == 0)
     {
@@ -84,7 +90,7 @@
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
     RUClassCell* cell = [tableView dequeueReusableCellWithIdentifier:@"RUClassCell"];
-    RUClass* class = [[[RUData sharedData] getClasses] objectAtIndex:[indexPath row]];
+    RUClass* class = [[[RUData sharedData] getNextClasses] objectAtIndex:[indexPath row]];
     [cell setClass:class];
     return cell;
 }

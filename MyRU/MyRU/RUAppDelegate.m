@@ -56,23 +56,6 @@
 - (void)applicationWillEnterForeground:(UIApplication *)application
 {
     // Called as part of the transition from the background to the inactive state; here you can undo many of the changes made on entering the background.
-    
-    // Reload the data when re-opening the app
-    if([[RUData sharedData] userIsLoggedIn])
-    {
-        // Refetch the page, parse it and load the new data into all table view controllers.
-        dispatch_async( dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^
-        {
-            [[RUData sharedData] refreshData];
-           
-           dispatch_async( dispatch_get_main_queue(), ^
-          {
-              UIStoryboard* storyboard = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
-              RUTabBarController* tabBarController = [storyboard instantiateInitialViewController];
-              [tabBarController reloadDataInAllTableViewControllers];
-          });
-       });
-    }
 }
 
 - (void)applicationDidBecomeActive:(UIApplication *)application
@@ -84,5 +67,14 @@
 {
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
 }
+
+
+/*-(void)application:(UIApplication *)application didReceiveLocalNotification:(UILocalNotification *)notification
+{
+    NSLog(@"Called app delagate local notification method!");
+    UIStoryboard* storyboard = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
+    RUTabBarController* tabBarController = [storyboard instantiateInitialViewController];
+    [tabBarController reloadDataInAllTableViewControllers];
+}*/
 
 @end

@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "RUClass.h"
 
 @interface RUData : NSObject
 
@@ -16,6 +17,8 @@
 - (NSString*)getAuthentication;
 - (int)refreshData;
 - (NSArray*)getClasses;
+- (NSArray*)getNextClasses;
+- (RUClass*)getNextClass;
 - (NSArray*)getAssignments;
 - (NSArray*)getGrades;
 - (void)clearData;

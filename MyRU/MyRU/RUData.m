@@ -126,6 +126,29 @@
     return [self classes];
 }
 
+- (NSArray*)getNextClasses
+{
+    NSMutableArray* nextClasses = [[NSMutableArray alloc] init];
+    
+    for(RUClass* class in [self getClasses])
+    {
+        if(![class isOver])
+        {
+            [nextClasses addObject:class];
+        }
+    }
+    return nextClasses;
+}
+
+- (RUClass*)getNextClass
+{
+    if([[self getNextClasses] count])
+    {
+        return [[self getNextClasses] objectAtIndex:0];
+    }
+    return nil;
+}
+
 - (NSArray*)getAssignments
 {
     return [self assignments];
@@ -301,11 +324,34 @@
                             NSString* location = [locationString substringFromIndex:6];
                             class.location = location;
                             
-                            // Set start and end time
+                            // Set start and end time strings
                             TFHppleElement* timeColumn = columns[0];
                             NSArray* time = [[timeColumn text] componentsSeparatedByString:@" "]; // &nbsp
-                            class.startTime = [time[0] stringByTrimmingCharactersInSet:[NSCharacterSet newlineCharacterSet]];
-                            class.endTime = [time[1] stringByTrimmingCharactersInSet:[NSCharacterSet newlineCharacterSet]];
+                            class.startString = [time[0] stringByTrimmingCharactersInSet:[NSCharacterSet newlineCharacterSet]];
+                            class.endString = [time[1] stringByTrimmingCharactersInSet:[NSCharacterSet newlineCharacterSet]];
+                            
+                            // Set actual start and end times
+                            NSArray* startTime = [[class startString] componentsSeparatedByString:@":"];
+                            NSArray* endTime = [[class endString] componentsSeparatedByString:@":"];
+                            int startHour = [startTime[0] intValue];
+                            int startMinute = [startTime[1] intValue];
+                            int endHour = [endTime[0] intValue];
+                            int endMinute = [endTime[1] intValue];
+                            
+                            NSCalendar* myCalendar = [NSCalendar currentCalendar];
+                            
+                            NSDateComponents* startComponents = [myCalendar components:NSYearCalendarUnit|NSMonthCalendarUnit|NSDayCalendarUnit fromDate:[NSDate date]];
+                            [startComponents setHour: startHour];
+                            [startComponents setMinute: startMinute];
+                            [startComponents setSecond: 0];
+                            
+                            NSDateComponents* endComponents = [myCalendar components:NSYearCalendarUnit|NSMonthCalendarUnit|NSDayCalendarUnit fromDate:[NSDate date]];
+                            [endComponents setHour: endHour];
+                            [endComponents setMinute:endMinute];
+                            [endComponents setSecond:0];
+                            
+                            class.startDate = [myCalendar dateFromComponents:startComponents];
+                            class.endDate = [myCalendar dateFromComponents:endComponents];
                             
                             // Add to classes
                             [[self classes] addObject:class];

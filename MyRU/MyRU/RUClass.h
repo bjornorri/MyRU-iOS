@@ -14,9 +14,13 @@
 @property(strong, nonatomic) NSMutableArray* teachers;
 @property(nonatomic, copy) NSString* type;
 @property(nonatomic, copy) NSString* location;
-@property(nonatomic, copy) NSString* startTime;
-@property(nonatomic, copy) NSString* endTime;
+@property(nonatomic, copy) NSString* startString;
+@property(nonatomic, copy) NSString* endString;
+@property (strong, nonatomic) NSDate* startDate;
+@property (strong, nonatomic) NSDate* endDate;
+
 
 -(bool)isOver;
+-(bool)isNow;
 
 @end

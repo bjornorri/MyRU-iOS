@@ -32,7 +32,27 @@
     if([[RUData sharedData] userIsLoggedIn])
     {
         [[RUData sharedData] refreshData];
+        
+        // Set listener for foreground entering
+        [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(applicationWillEnterForeground:) name:UIApplicationWillEnterForegroundNotification object:nil];
+        
+        
+        // Set listener for time changes (a new day for example)
+        [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(significantTimeChangeOccured:) name:UIApplicationSignificantTimeChangeNotification object:nil];
     }
+}
+
+// This executes when the app enters the foreground
+- (void)applicationWillEnterForeground:(NSNotification *)notification
+{
+    [self reloadDataInAllTableViewControllers];
+}
+
+// Fetch data again on a new day (important for timetable)
+- (void)significantTimeChangeOccured:(NSNotification*)notification
+{
+    [[RUData sharedData] refreshData];
+    [self reloadDataInAllTableViewControllers];
 }
 
 - (void)viewDidAppear:(BOOL)animated
