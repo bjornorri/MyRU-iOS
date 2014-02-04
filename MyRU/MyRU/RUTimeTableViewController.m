@@ -92,6 +92,28 @@
     RUClassCell* cell = [tableView dequeueReusableCellWithIdentifier:@"RUClassCell"];
     RUClass* class = [[[RUData sharedData] getNextClasses] objectAtIndex:[indexPath row]];
     [cell setClass:class];
+    
+    // Update the tableview at the end of this class
+    if([class isNow])
+    {
+        NSTimeInterval interval = [class.endDate timeIntervalSinceNow];
+        
+        NSLog(@"%f", interval);
+        
+        dispatch_after(dispatch_time(DISPATCH_TIME_NOW, interval * NSEC_PER_SEC), dispatch_get_main_queue(), ^{
+            [self.tableView reloadData];
+        });
+    }
+    
+    // Update the tableview at the start of next class
+    if([[RUData sharedData] getNextClass])
+    {
+        NSTimeInterval interval = [[NSDate date] timeIntervalSinceDate:[[[RUData sharedData] getNextClass] startDate]];
+        dispatch_after(dispatch_time(DISPATCH_TIME_NOW, interval * NSEC_PER_SEC), dispatch_get_main_queue(), ^{
+            [self.tableView reloadData];
+        });
+    }
+    
     return cell;
 }
 

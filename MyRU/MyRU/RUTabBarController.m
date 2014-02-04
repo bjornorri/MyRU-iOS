@@ -38,7 +38,7 @@
         
         
         // Set listener for time changes (a new day for example)
-        [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(significantTimeChangeOccured:) name:UIApplicationSignificantTimeChangeNotification object:nil];
+        [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(significantTimeChangeOccurred:) name:UIApplicationSignificantTimeChangeNotification object:nil];
     }
 }
 
@@ -49,8 +49,9 @@
 }
 
 // Fetch data again on a new day (important for timetable)
-- (void)significantTimeChangeOccured:(NSNotification*)notification
+- (void)significantTimeChangeOccurred:(NSNotification*)notification
 {
+    NSLog(@"Significant time  change occurred!");
     [[RUData sharedData] refreshData];
     [self reloadDataInAllTableViewControllers];
 }
