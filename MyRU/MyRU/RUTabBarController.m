@@ -52,8 +52,12 @@
 - (void)significantTimeChangeOccurred:(NSNotification*)notification
 {
     NSLog(@"Significant time  change occurred!");
-    [[RUData sharedData] refreshData];
-    [self reloadDataInAllTableViewControllers];
+    
+    if([[RUData sharedData] userIsLoggedIn])
+    {
+        [[RUData sharedData] refreshData];
+        [self reloadDataInAllTableViewControllers];
+    }
 }
 
 - (void)viewDidAppear:(BOOL)animated

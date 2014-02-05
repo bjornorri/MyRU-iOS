@@ -116,13 +116,13 @@
             
             CABasicAnimation* lineAnimation = [CABasicAnimation animationWithKeyPath:@"position"];
             lineAnimation.fromValue = [self.lineLayer valueForKey:@"position"];
-            lineAnimation.toValue = [NSValue valueWithCGPoint:CGPointMake(self.bounds.origin.x, self.bounds.size.height - layerHeight)];
+            lineAnimation.toValue = [NSValue valueWithCGPoint:CGPointMake(self.bounds.origin.x, self.bounds.size.height - layerHeight - 2)];
             lineAnimation.duration = duration;
             lineAnimation.delegate = self;
             
             CABasicAnimation* maskAnimation = [CABasicAnimation animationWithKeyPath:@"bounds.size"];
             maskAnimation.fromValue = [self.maskLayer valueForKey:@"bounds.size"];
-            maskAnimation.toValue = [NSValue valueWithCGSize:CGSizeMake(self.bounds.size.width, self.bounds.size.height)];
+            maskAnimation.toValue = [NSValue valueWithCGSize:CGSizeMake(self.bounds.size.width, self.bounds.size.height - 2)];
             maskAnimation.duration = duration;
             maskAnimation.delegate = self;
             

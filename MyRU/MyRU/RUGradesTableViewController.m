@@ -122,7 +122,7 @@
     
     UIFont* labelFont = [UIFont boldSystemFontOfSize:17.0];
     [label setFont:labelFont];
-    UIView* redLine = [[UIView alloc] initWithFrame:CGRectMake(0, 38, self.view.frame.size.width, 2)];
+    UIView* redLine = [[UIView alloc] initWithFrame:CGRectMake(0, 39, self.view.frame.size.width, 1)];
     [redLine setBackgroundColor:[UIColor redColor]];
     [view addSubview:label];
     [view addSubview:redLine];
